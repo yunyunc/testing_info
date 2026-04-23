@@ -1,0 +1,22 @@
+# tests/CMakeLists.txt 追加片段
+
+## 单元测试
+
+```cmake
+list(APPEND UNIT_TEST_SOURCES
+    unit/test_<name>.cpp
+)
+```
+
+## 回归测试
+
+```cmake
+list(APPEND REGRESSION_TEST_SOURCES
+    regression/test_<name>.cpp
+)
+```
+
+## 说明
+
+- DFM 当前测试列表是手工维护，不会自动发现新源文件。
+- 新增 `tests/unit/*.cpp` 或 `tests/regression/*.cpp` 后，要同步更新 `tests/CMakeLists.txt`。

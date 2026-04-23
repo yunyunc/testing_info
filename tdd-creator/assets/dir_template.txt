@@ -1,0 +1,14 @@
+tdd/<domain>/<name>/
+├── README.md                       # TDD 文档
+
+tests/tdd/<name>/
+└── data/
+    ├── synth/                      # 虚构输入（json/yaml/构造说明）
+    ├── real/                       # 自包含真实数据（Model.stp / Feature.json / config副本）
+    └── golden/                     # 金样摘要（summary / 关键违例 / face ids）
+
+按 UUT 类型选择其一：
+
+tests/unit/test_<name>.cpp          # 规则 / 组件 / API
+tests/regression/test_<name>.cpp    # 流水线回归
+benchmarks/bench_<name>.cpp         # 性能基准
