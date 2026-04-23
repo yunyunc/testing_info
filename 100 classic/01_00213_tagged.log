@@ -1,0 +1,82 @@
+INFO: Start of Translation:	11-Feb-2026 12:09:40 PM
+
+INFO: Header : Author::Author
+INFO: Header : Authorization::Unknown
+INFO: Header : Description::Open CASCADE Model
+INFO: Header : File Name::Open CASCADE Shape Model
+INFO: Header : Implementation Level::2;1
+INFO: Header : Organization::Open CASCADE
+INFO: Header : Originating System::Open CASCADE 7.9
+INFO: Header : Preprocessor Version::Open CASCADE STEP processor 7.9
+INFO: Header : Schema::AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF {1 0 10303 442 1 1 4 }
+INFO: Header : Time Stamp::2026-02-04T20:05:40
+INFO: Begin CAD File Read 'D:/Syncronize/Code/CAPP/CAPP-V3-20260115.worktrees/develop/data/data/01_00213_tagged.stp'
+
+INFO:       Summary of STEP Entities
+INFO: 
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: advanced_brep_shape_representation .......................:   1
+INFO: advanced_face ............................................:   77
+INFO: application_context ......................................:   1
+INFO: application_protocol_definition ..........................:   1
+INFO: axis2_placement_2d .......................................:   38
+INFO: axis2_placement_3d .......................................:   146
+INFO: b_spline_curve_with_knots ................................:   3
+INFO: b_spline_curve_with_knots_and_rational_b_spline_curve ....:   30
+INFO: cartesian_point ..........................................:   1037
+INFO: circle ...................................................:   106
+INFO: closed_shell .............................................:   1
+INFO: cylindrical_surface ......................................:   34
+INFO: definitional_representation ..............................:   420
+INFO: direction ................................................:   821
+INFO: edge_curve ...............................................:   210
+INFO: edge_loop ................................................:   82
+INFO: face_bound ...............................................:   82
+INFO: geometric_representation_context_and_global_uncertainty_a :   1
+INFO: geometric_representation_context_and_parametric_represent :   420
+INFO: length_unit_and_si_unit ..................................:   1
+INFO: line .....................................................:   491
+INFO: manifold_solid_brep ......................................:   1
+INFO: oriented_edge ............................................:   420
+INFO: pcurve ...................................................:   420
+INFO: plane ....................................................:   43
+INFO: plane_angle_unit_and_si_unit .............................:   1
+INFO: product ..................................................:   1
+INFO: product_context ..........................................:   1
+INFO: product_definition .......................................:   1
+INFO: product_definition_context ...............................:   1
+INFO: product_definition_formation .............................:   1
+INFO: product_definition_shape .................................:   1
+INFO: product_related_product_category .........................:   1
+INFO: shape_definition_representation ..........................:   1
+INFO: si_unit_and_solid_angle_unit .............................:   1
+INFO: surface_curve ............................................:   210
+INFO: uncertainty_measure_with_unit ............................:   1
+INFO: vector ...................................................:   491
+INFO: vertex_point .............................................:   140
+INFO:                                                              -------
+INFO: Total                                                         5739
+
+
+INFO: Creating the NX Part:	11-Feb-2026 12:09:40 PM
+INFO: Creating Part ..:	D:\Syncronize\Code\CAPP\CAPP-V3-20260115.worktrees\develop\data\data\01_00213_tagged_stp.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO:                                                              -------
+INFO: Total                                                    :	1
+
+
+INFO: Total number of solids/sheets created :		1
+
+
+INFO: Number of Error Messages..........:	0
+INFO: Number of Warning Messages........:	0
+
+
+INFO: End of Translation:	11-Feb-2026 12:09:40 PM
