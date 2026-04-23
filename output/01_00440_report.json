@@ -1,0 +1,262 @@
+{
+    "face_highlight_map": {
+        "red": [
+            "105",
+            "101",
+            "102",
+            "103",
+            "104",
+            "110",
+            "106",
+            "107",
+            "108",
+            "109",
+            "100",
+            "96",
+            "97",
+            "98",
+            "99",
+            "2",
+            "66",
+            "50",
+            "65",
+            "41",
+            "64",
+            "67",
+            "68",
+            "69",
+            "70",
+            "71",
+            "72",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79",
+            "80",
+            "81",
+            "12",
+            "13",
+            "14",
+            "15",
+            "26",
+            "27",
+            "64",
+            "94",
+            "95",
+            "89",
+            "85",
+            "86",
+            "87",
+            "88",
+            "93",
+            "90",
+            "91",
+            "92",
+            "1",
+            "48",
+            "12",
+            "13",
+            "14",
+            "15",
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "yellow": []
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 4,
+        "total_violations": 6,
+        "yellow_count": 2
+    },
+    "timestamp": "2026-02-10T15:41:56",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "105",
+                "101",
+                "102",
+                "103",
+                "104",
+                "110",
+                "106",
+                "107",
+                "108",
+                "109",
+                "100",
+                "96",
+                "97",
+                "98",
+                "99"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 122.24999999999999,
+            "message": "型腔深度48.90mm，最小宽度0.40mm，深宽比122.25大于硬阈值6.00",
+            "rule_id": "MILL_DEEP_POCKET",
+            "rule_name": "深腔",
+            "severity": "red",
+            "suggestions": [
+                "reduce_depth",
+                "increase_opening_width",
+                "use_stepdown_machining",
+                "pre_drill_chip_escape_holes"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "2",
+                "66",
+                "50",
+                "65",
+                "41",
+                "64",
+                "67",
+                "68",
+                "69",
+                "70",
+                "71",
+                "72",
+                "73",
+                "74",
+                "75",
+                "76",
+                "77",
+                "78",
+                "79",
+                "80",
+                "81",
+                "12",
+                "13",
+                "14",
+                "15",
+                "26",
+                "27",
+                "64",
+                "94",
+                "95",
+                "89",
+                "85",
+                "86",
+                "87",
+                "88",
+                "93",
+                "90",
+                "91",
+                "92",
+                "1",
+                "48"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.05,
+            "message": "型腔深度60.20mm，最小宽度4.00mm，深宽比15.05大于硬阈值6.00",
+            "rule_id": "MILL_DEEP_POCKET",
+            "rule_name": "深腔",
+            "severity": "red",
+            "suggestions": [
+                "reduce_depth",
+                "increase_opening_width",
+                "use_stepdown_machining",
+                "pre_drill_chip_escape_holes"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "12",
+                "13",
+                "14",
+                "15"
+            ],
+            "location": {
+                "x": 43.3,
+                "y": -2.75,
+                "z": -26.25
+            },
+            "measured_value": 46.3000002,
+            "message": "Pocket[OpenPocket_L4_W169.804_D60.2]内凸台高度46.30mm，超过允许高度24.00mm",
+            "rule_id": "MILL_HIGH_BOSS",
+            "rule_name": "高凸台（绝对高度）",
+            "severity": "red",
+            "suggestions": [
+                "reduce_boss_height",
+                "consider_multi_setup",
+                "use_specialized_tooling"
+            ],
+            "threshold": 24.0
+        },
+        {
+            "affected_face_ids": [
+                "12",
+                "13",
+                "14",
+                "15"
+            ],
+            "location": {
+                "x": 43.3,
+                "y": -2.75,
+                "z": -26.25
+            },
+            "measured_value": 22.0476170430841,
+            "message": "Pocket[OpenPocket_L4_W169.804_D60.2]内凸台高宽比22.05，超过硬阈值3.00",
+            "rule_id": "MILL_HIGH_BOSS",
+            "rule_name": "高凸台（高宽比）",
+            "severity": "red",
+            "suggestions": [
+                "reduce_boss_height",
+                "increase_base_width",
+                "consider_multi_setup",
+                "use_specialized_tooling"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.0967356e-317
+            },
+            "measured_value": 1.4,
+            "message": "Pocket \"OpenPocket_L4_W169.804_D60.2\" 的底部圆角半径 R1.4mm 不是标准球刀半径。建议调整为 R1.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R1.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 1.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.0967356e-317
+            },
+            "measured_value": 0.8,
+            "message": "Pocket \"OpenPocket_L4_W169.804_D60.2\" 的底部圆角半径 R0.8mm 不是标准球刀半径。建议调整为 R1mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R1mm，或确认使用定制刀具。"
+            ],
+            "threshold": 1.0
+        }
+    ]
+}

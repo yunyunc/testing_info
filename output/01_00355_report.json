@@ -1,0 +1,173 @@
+{
+    "face_highlight_map": {
+        "red": [],
+        "yellow": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 0,
+        "total_violations": 8,
+        "yellow_count": 8
+    },
+    "timestamp": "2026-02-10T15:37:43",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "9"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "10"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "11"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "12"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.094554e-317
+            },
+            "measured_value": 8.0,
+            "message": "Pocket \"OpenPocket_L27.1335_W7.32_D4.3\" 的底部圆角半径 R8mm 不是标准球刀半径。建议调整为 R6mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R6mm，或确认使用定制刀具。"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.094554e-317
+            },
+            "measured_value": 8.0,
+            "message": "Pocket \"OpenPocket_L27.1335_W7.32_D4.3\" 的底部圆角半径 R8mm 不是标准球刀半径。建议调整为 R6mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R6mm，或确认使用定制刀具。"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.094554e-317
+            },
+            "measured_value": 2.4,
+            "message": "Pocket \"OpenPocket_L27.1335_W7.32_D4.3\" 的底部圆角半径 R2.4mm 不是标准球刀半径。建议调整为 R2.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.094554e-317
+            },
+            "measured_value": 2.4,
+            "message": "Pocket \"OpenPocket_L27.1335_W7.32_D4.3\" 的底部圆角半径 R2.4mm 不是标准球刀半径。建议调整为 R2.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.5
+        }
+    ]
+}

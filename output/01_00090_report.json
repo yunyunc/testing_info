@@ -1,0 +1,473 @@
+{
+    "face_highlight_map": {
+        "red": [],
+        "yellow": [
+            "1",
+            "133",
+            "2",
+            "132",
+            "3",
+            "124",
+            "4",
+            "123",
+            "5",
+            "122",
+            "6",
+            "121",
+            "7",
+            "120",
+            "8",
+            "119",
+            "9",
+            "118",
+            "10",
+            "63",
+            "11",
+            "62",
+            "12",
+            "61",
+            "13",
+            "60",
+            "14",
+            "59",
+            "15",
+            "58",
+            "16",
+            "46",
+            "17",
+            "45",
+            "18",
+            "44",
+            "19",
+            "43"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 0,
+        "total_violations": 19,
+        "yellow_count": 19
+    },
+    "timestamp": "2026-02-10T15:19:05",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "1",
+                "133"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "2",
+                "132"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "3",
+                "124"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "4",
+                "123"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "5",
+                "122"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "6",
+                "121"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "7",
+                "120"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "8",
+                "119"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "9",
+                "118"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "10",
+                "63"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "62"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "12",
+                "61"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "13",
+                "60"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "14",
+                "59"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "15",
+                "58"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "16",
+                "46"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "17",
+                "45"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "18",
+                "44"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "19",
+                "43"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.1,
+            "message": "孔径Ø3.10mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.10mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        }
+    ]
+}

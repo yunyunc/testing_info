@@ -1,0 +1,634 @@
+{
+    "face_highlight_map": {
+        "red": [
+            "1",
+            "2",
+            "41",
+            "3",
+            "4",
+            "35",
+            "5",
+            "6",
+            "32",
+            "7",
+            "8",
+            "29",
+            "9",
+            "10",
+            "23",
+            "11",
+            "12",
+            "21",
+            "13",
+            "14",
+            "19",
+            "15",
+            "16",
+            "17"
+        ],
+        "yellow": [
+            "1",
+            "2",
+            "41",
+            "3",
+            "4",
+            "35",
+            "5",
+            "6",
+            "32",
+            "7",
+            "8",
+            "29",
+            "9",
+            "10",
+            "23",
+            "11",
+            "12",
+            "21",
+            "13",
+            "14",
+            "19",
+            "15",
+            "16",
+            "17",
+            "1",
+            "2",
+            "41",
+            "3",
+            "4",
+            "35",
+            "5",
+            "6",
+            "32",
+            "7",
+            "8",
+            "29",
+            "9",
+            "10",
+            "23",
+            "11",
+            "12",
+            "21",
+            "13",
+            "14",
+            "19",
+            "15",
+            "16",
+            "17"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 8,
+        "total_violations": 24,
+        "yellow_count": 16
+    },
+    "timestamp": "2026-02-10T15:30:39",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "1",
+                "2",
+                "41"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径2.074mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "3",
+                "4",
+                "35"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径2.074mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "5",
+                "6",
+                "32"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径2.074mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "7",
+                "8",
+                "29"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径2.074mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "9",
+                "10",
+                "23"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径2.074mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "12",
+                "21"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径2.074mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "13",
+                "14",
+                "19"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径2.074mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "15",
+                "16",
+                "17"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径2.074mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "1",
+                "2",
+                "41"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径Ø2.07mm为非标准尺寸，最近的标准尺寸为Ø2.00mm（差值0.07mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø2.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [
+                "3",
+                "4",
+                "35"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径Ø2.07mm为非标准尺寸，最近的标准尺寸为Ø2.00mm（差值0.07mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø2.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [
+                "5",
+                "6",
+                "32"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径Ø2.07mm为非标准尺寸，最近的标准尺寸为Ø2.00mm（差值0.07mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø2.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [
+                "7",
+                "8",
+                "29"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径Ø2.07mm为非标准尺寸，最近的标准尺寸为Ø2.00mm（差值0.07mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø2.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [
+                "9",
+                "10",
+                "23"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径Ø2.07mm为非标准尺寸，最近的标准尺寸为Ø2.00mm（差值0.07mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø2.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "12",
+                "21"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径Ø2.07mm为非标准尺寸，最近的标准尺寸为Ø2.00mm（差值0.07mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø2.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [
+                "13",
+                "14",
+                "19"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径Ø2.07mm为非标准尺寸，最近的标准尺寸为Ø2.00mm（差值0.07mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø2.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [
+                "15",
+                "16",
+                "17"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.074,
+            "message": "孔径Ø2.07mm为非标准尺寸，最近的标准尺寸为Ø2.00mm（差值0.07mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø2.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [
+                "1",
+                "2",
+                "41"
+            ],
+            "location": {
+                "x": -67.08670575660415,
+                "y": 76.37953267332865,
+                "z": 2.7183308710467653
+            },
+            "measured_value": 0.2596610244817301,
+            "message": "孔 [ThroughHole_R1.037_D0.7_0] 距离 Hole [ThroughHole_R1.037_D0.7_4] 仅 0.26mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "3",
+                "4",
+                "35"
+            ],
+            "location": {
+                "x": -7.586657595865946,
+                "y": -14.12046564753725,
+                "z": 2.7183308710467697
+            },
+            "measured_value": 0.25974437150477275,
+            "message": "孔 [ThroughHole_R1.037_D0.7_1] 距离 Hole [ThroughHole_R1.037_D0.7_5] 仅 0.26mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "5",
+                "6",
+                "32"
+            ],
+            "location": {
+                "x": -67.08668388799771,
+                "y": -14.120465782618549,
+                "z": 2.7183308710467697
+            },
+            "measured_value": 0.25969887078888504,
+            "message": "孔 [ThroughHole_R1.037_D0.7_2] 距离 Hole [ThroughHole_R1.037_D0.7_6] 仅 0.26mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "7",
+                "8",
+                "29"
+            ],
+            "location": {
+                "x": -7.5866848947629855,
+                "y": 76.37953417529366,
+                "z": 2.7183308710467697
+            },
+            "measured_value": 0.2596971284757773,
+            "message": "孔 [ThroughHole_R1.037_D0.7_3] 距离 Hole [ThroughHole_R1.037_D0.7_7] 仅 0.26mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "9",
+                "10",
+                "23"
+            ],
+            "location": {
+                "x": -67.08670575660415,
+                "y": 76.37953267332865,
+                "z": 2.7183308710467653
+            },
+            "measured_value": 0.2596610244817301,
+            "message": "孔 [ThroughHole_R1.037_D0.7_4] 距离 Hole [ThroughHole_R1.037_D0.7_0] 仅 0.26mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "12",
+                "21"
+            ],
+            "location": {
+                "x": -7.586657595865946,
+                "y": -14.12046564753725,
+                "z": 2.7183308710467697
+            },
+            "measured_value": 0.25974437150477275,
+            "message": "孔 [ThroughHole_R1.037_D0.7_5] 距离 Hole [ThroughHole_R1.037_D0.7_1] 仅 0.26mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "13",
+                "14",
+                "19"
+            ],
+            "location": {
+                "x": -67.08668388799771,
+                "y": -14.120465782618549,
+                "z": 2.7183308710467697
+            },
+            "measured_value": 0.25969887078888504,
+            "message": "孔 [ThroughHole_R1.037_D0.7_6] 距离 Hole [ThroughHole_R1.037_D0.7_2] 仅 0.26mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "15",
+                "16",
+                "17"
+            ],
+            "location": {
+                "x": -7.5866848947629855,
+                "y": 76.37953417529366,
+                "z": 2.7183308710467697
+            },
+            "measured_value": 0.2596971284757773,
+            "message": "孔 [ThroughHole_R1.037_D0.7_7] 距离 Hole [ThroughHole_R1.037_D0.7_3] 仅 0.26mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        }
+    ]
+}

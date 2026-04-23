@@ -1,0 +1,1187 @@
+{
+    "face_highlight_map": {
+        "red": [
+            "157",
+            "149",
+            "10",
+            "11",
+            "150",
+            "151",
+            "152",
+            "153",
+            "154",
+            "155",
+            "156",
+            "240",
+            "241",
+            "242",
+            "243",
+            "244",
+            "245",
+            "246",
+            "247",
+            "168",
+            "160",
+            "6",
+            "198",
+            "7",
+            "199",
+            "161",
+            "162",
+            "163",
+            "164",
+            "165",
+            "166",
+            "167",
+            "200",
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "183",
+            "191",
+            "184",
+            "185",
+            "186",
+            "187",
+            "189",
+            "190",
+            "193",
+            "145",
+            "148",
+            "12",
+            "143",
+            "144",
+            "218",
+            "146",
+            "147",
+            "219",
+            "236",
+            "237",
+            "238",
+            "239",
+            "92",
+            "212",
+            "3",
+            "91",
+            "90",
+            "213",
+            "216",
+            "217",
+            "177",
+            "175",
+            "207",
+            "176",
+            "178",
+            "194",
+            "195",
+            "206",
+            "173",
+            "197",
+            "171",
+            "172",
+            "196",
+            "174",
+            "208",
+            "209",
+            "87",
+            "215",
+            "88",
+            "89",
+            "214",
+            "220",
+            "221",
+            "93",
+            "229",
+            "94",
+            "95",
+            "226",
+            "227",
+            "228",
+            "98",
+            "96",
+            "224",
+            "97",
+            "225",
+            "222",
+            "223",
+            "181",
+            "179",
+            "180",
+            "188",
+            "182",
+            "192"
+        ],
+        "yellow": [
+            "1",
+            "249",
+            "2",
+            "248",
+            "4",
+            "170",
+            "5",
+            "169",
+            "8",
+            "159",
+            "9",
+            "158",
+            "29",
+            "110",
+            "30",
+            "109",
+            "31",
+            "108",
+            "32",
+            "107",
+            "33",
+            "106",
+            "34",
+            "105",
+            "35",
+            "104",
+            "36",
+            "103",
+            "37",
+            "102",
+            "38",
+            "101",
+            "39",
+            "100",
+            "40",
+            "99",
+            "57",
+            "60",
+            "58",
+            "59"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 2,
+        "total_violations": 47,
+        "yellow_count": 45
+    },
+    "timestamp": "2026-02-10T15:40:57",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "1",
+                "249"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "2",
+                "248"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "4",
+                "170"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "5",
+                "169"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "8",
+                "159"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "9",
+                "158"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "29",
+                "110"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "30",
+                "109"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "31",
+                "108"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "32",
+                "107"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "33",
+                "106"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "34",
+                "105"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "35",
+                "104"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "36",
+                "103"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "37",
+                "102"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "38",
+                "101"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "39",
+                "100"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "40",
+                "99"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "57",
+                "60"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "58",
+                "59"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "157",
+                "149",
+                "10",
+                "11",
+                "150",
+                "151",
+                "152",
+                "153",
+                "154",
+                "155",
+                "156",
+                "240",
+                "241",
+                "242",
+                "243",
+                "244",
+                "245",
+                "246",
+                "247",
+                "168",
+                "160",
+                "6",
+                "198",
+                "7",
+                "199",
+                "161",
+                "162",
+                "163",
+                "164",
+                "165",
+                "166",
+                "167",
+                "200",
+                "201",
+                "202",
+                "203",
+                "204",
+                "205",
+                "183",
+                "191",
+                "184",
+                "185",
+                "186",
+                "187",
+                "189",
+                "190",
+                "193"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 22.0,
+            "message": "型腔深度44.00mm，最小宽度2.00mm，深宽比22.00大于硬阈值6.00",
+            "rule_id": "MILL_DEEP_POCKET",
+            "rule_name": "深腔",
+            "severity": "red",
+            "suggestions": [
+                "reduce_depth",
+                "increase_opening_width",
+                "use_stepdown_machining",
+                "pre_drill_chip_escape_holes"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "145",
+                "148",
+                "12",
+                "143",
+                "144",
+                "218",
+                "146",
+                "147",
+                "219",
+                "236",
+                "237",
+                "238",
+                "239",
+                "92",
+                "212",
+                "3",
+                "91",
+                "90",
+                "213",
+                "216",
+                "217",
+                "177",
+                "175",
+                "207",
+                "176",
+                "178",
+                "194",
+                "195",
+                "206",
+                "173",
+                "197",
+                "171",
+                "172",
+                "196",
+                "174",
+                "208",
+                "209",
+                "87",
+                "215",
+                "88",
+                "89",
+                "214",
+                "220",
+                "221",
+                "93",
+                "229",
+                "94",
+                "95",
+                "226",
+                "227",
+                "228",
+                "98",
+                "96",
+                "224",
+                "97",
+                "225",
+                "222",
+                "223",
+                "181",
+                "179",
+                "180",
+                "188",
+                "182",
+                "192"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 22.0,
+            "message": "型腔深度44.00mm，最小宽度2.00mm，深宽比22.00大于硬阈值6.00",
+            "rule_id": "MILL_DEEP_POCKET",
+            "rule_name": "深腔",
+            "severity": "red",
+            "suggestions": [
+                "reduce_depth",
+                "increase_opening_width",
+                "use_stepdown_machining",
+                "pre_drill_chip_escape_holes"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 3.200000000000008,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R3.2mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 3.2000000000000117,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R3.2mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 3.200000000000005,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R3.2mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 3.20000000000001,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R3.2mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 3.200000000000005,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R3.2mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 3.2000000000000117,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R3.2mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.1999999999999997,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.1999999999999997,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.1999999999999997,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.1999999999999997,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"ClosedPocket_L2_W22_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 3.200000000000008,
+            "message": "Pocket \"OpenPocket_L2_W13_D44\" 的底部圆角半径 R3.2mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 3.2000000000000117,
+            "message": "Pocket \"OpenPocket_L2_W13_D44\" 的底部圆角半径 R3.2mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 3.2000000000000117,
+            "message": "Pocket \"OpenPocket_L2_W13_D44\" 的底部圆角半径 R3.2mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"OpenPocket_L2_W13_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"OpenPocket_L2_W13_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"OpenPocket_L2_W13_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"OpenPocket_L2_W13_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"OpenPocket_L2_W13_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.729424e-317
+            },
+            "measured_value": 2.2000000000000006,
+            "message": "Pocket \"OpenPocket_L2_W13_D44\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        }
+    ]
+}

@@ -1,0 +1,601 @@
+{
+    "face_highlight_map": {
+        "red": [
+            "3",
+            "73",
+            "53",
+            "42",
+            "26",
+            "22",
+            "23",
+            "24",
+            "25",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "124",
+            "125",
+            "126",
+            "127",
+            "128",
+            "129",
+            "130",
+            "43",
+            "45",
+            "5",
+            "46",
+            "6",
+            "44",
+            "47",
+            "48",
+            "49",
+            "50",
+            "51",
+            "92",
+            "100",
+            "20",
+            "18",
+            "19",
+            "101",
+            "21",
+            "102",
+            "103",
+            "56",
+            "120",
+            "52",
+            "53",
+            "54",
+            "55",
+            "121",
+            "122",
+            "123",
+            "64",
+            "65",
+            "66",
+            "67",
+            "116",
+            "68",
+            "117",
+            "118",
+            "119",
+            "63",
+            "111",
+            "57",
+            "58",
+            "59",
+            "60",
+            "61",
+            "62",
+            "112",
+            "113",
+            "114",
+            "115",
+            "15",
+            "1",
+            "132",
+            "133",
+            "134",
+            "135",
+            "137",
+            "138",
+            "139",
+            "140",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98",
+            "99",
+            "71",
+            "69",
+            "70",
+            "1",
+            "132",
+            "133",
+            "134",
+            "135",
+            "137",
+            "138",
+            "139",
+            "140",
+            "1",
+            "132",
+            "133",
+            "134",
+            "135",
+            "137",
+            "138",
+            "139",
+            "140"
+        ],
+        "yellow": [
+            "2",
+            "91",
+            "3",
+            "73",
+            "4",
+            "72",
+            "7",
+            "41",
+            "8",
+            "40",
+            "9",
+            "39",
+            "10",
+            "38",
+            "11",
+            "37",
+            "12",
+            "36",
+            "14",
+            "16",
+            "2",
+            "91",
+            "43"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 5,
+        "total_violations": 16,
+        "yellow_count": 11
+    },
+    "timestamp": "2026-02-10T15:37:19",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "2",
+                "91"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "3",
+                "73"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "4",
+                "72"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "7",
+                "41"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "8",
+                "40"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "9",
+                "39"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "10",
+                "38"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "37"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "12",
+                "36"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "14",
+                "16"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "2",
+                "91",
+                "43"
+            ],
+            "location": {
+                "x": 11.074999999999996,
+                "y": 2.0,
+                "z": -4.7500000000000036
+            },
+            "measured_value": 0.3500000000000032,
+            "message": "孔 [ThroughHole_R1.25_D5.5_0] 距离 Pocket [ClosedPocket_L1_W36.8_D47] 仅 0.35mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "3",
+                "73",
+                "53"
+            ],
+            "location": {
+                "x": -7.300000000000015,
+                "y": 3.0,
+                "z": -29.849999999999994
+            },
+            "measured_value": 0.19999999999998508,
+            "message": "孔 [ThroughHole_R1.25_D5.5_1] 距离 Pocket [ClosedPocket_L1_W36.8_D47] 仅 0.20mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "42",
+                "26",
+                "22",
+                "23",
+                "24",
+                "25",
+                "27",
+                "28",
+                "29",
+                "30",
+                "31",
+                "124",
+                "125",
+                "126",
+                "127",
+                "128",
+                "129",
+                "130",
+                "43",
+                "45",
+                "5",
+                "46",
+                "6",
+                "44",
+                "47",
+                "48",
+                "49",
+                "50",
+                "51",
+                "92",
+                "100",
+                "20",
+                "18",
+                "19",
+                "101",
+                "21",
+                "102",
+                "103",
+                "56",
+                "120",
+                "52",
+                "53",
+                "54",
+                "55",
+                "121",
+                "122",
+                "123",
+                "64",
+                "65",
+                "66",
+                "67",
+                "116",
+                "68",
+                "117",
+                "118",
+                "119"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 47.0,
+            "message": "型腔深度47.00mm，最小宽度1.00mm，深宽比47.00大于硬阈值6.00",
+            "rule_id": "MILL_DEEP_POCKET",
+            "rule_name": "深腔",
+            "severity": "red",
+            "suggestions": [
+                "reduce_depth",
+                "increase_opening_width",
+                "use_stepdown_machining",
+                "pre_drill_chip_escape_holes"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "63",
+                "111",
+                "57",
+                "58",
+                "59",
+                "60",
+                "61",
+                "62",
+                "112",
+                "113",
+                "114",
+                "115",
+                "15",
+                "1",
+                "132",
+                "133",
+                "134",
+                "135",
+                "137",
+                "138",
+                "139",
+                "140",
+                "94",
+                "95",
+                "96",
+                "97",
+                "98",
+                "99",
+                "71",
+                "69",
+                "70"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 25.75,
+            "message": "型腔深度77.25mm，最小宽度3.00mm，深宽比25.75大于硬阈值6.00",
+            "rule_id": "MILL_DEEP_POCKET",
+            "rule_name": "深腔",
+            "severity": "red",
+            "suggestions": [
+                "reduce_depth",
+                "increase_opening_width",
+                "use_stepdown_machining",
+                "pre_drill_chip_escape_holes"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "1",
+                "132",
+                "133",
+                "134",
+                "135",
+                "137",
+                "138",
+                "139",
+                "140"
+            ],
+            "location": {
+                "x": -11.000000000000014,
+                "y": -0.75,
+                "z": 7.748469721508146
+            },
+            "measured_value": 66.00306075698373,
+            "message": "Pocket[OpenPocket_L3_W16.1_D77.25]内凸台高度66.00mm，超过允许高度24.00mm",
+            "rule_id": "MILL_HIGH_BOSS",
+            "rule_name": "高凸台（绝对高度）",
+            "severity": "red",
+            "suggestions": [
+                "reduce_boss_height",
+                "consider_multi_setup",
+                "use_specialized_tooling"
+            ],
+            "threshold": 24.0
+        },
+        {
+            "affected_face_ids": [
+                "1",
+                "132",
+                "133",
+                "134",
+                "135",
+                "137",
+                "138",
+                "139",
+                "140"
+            ],
+            "location": {
+                "x": -11.000000000000014,
+                "y": -0.75,
+                "z": 7.748469721508146
+            },
+            "measured_value": 44.00203463771786,
+            "message": "Pocket[OpenPocket_L3_W16.1_D77.25]内凸台高宽比44.00，超过硬阈值3.00",
+            "rule_id": "MILL_HIGH_BOSS",
+            "rule_name": "高凸台（高宽比）",
+            "severity": "red",
+            "suggestions": [
+                "reduce_boss_height",
+                "increase_base_width",
+                "consider_multi_setup",
+                "use_specialized_tooling"
+            ],
+            "threshold": 3.0
+        }
+    ]
+}

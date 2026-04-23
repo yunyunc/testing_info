@@ -1,0 +1,129 @@
+{
+    "face_highlight_map": {
+        "red": [
+            "9",
+            "11",
+            "12",
+            "13",
+            "14",
+            "24",
+            "25",
+            "26",
+            "27",
+            "11",
+            "12",
+            "13",
+            "14",
+            "24",
+            "25",
+            "26",
+            "27",
+            "11",
+            "12",
+            "13",
+            "14",
+            "24",
+            "25",
+            "26",
+            "27"
+        ],
+        "yellow": []
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 3,
+        "total_violations": 3,
+        "yellow_count": 0
+    },
+    "timestamp": "2026-02-10T15:42:25",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "9",
+                "11",
+                "12",
+                "13",
+                "14",
+                "24",
+                "25",
+                "26",
+                "27"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 33.333333333333336,
+            "message": "型腔深度100.00mm，最小宽度3.00mm，深宽比33.33大于硬阈值6.00",
+            "rule_id": "MILL_DEEP_POCKET",
+            "rule_name": "深腔",
+            "severity": "red",
+            "suggestions": [
+                "reduce_depth",
+                "increase_opening_width",
+                "use_stepdown_machining",
+                "pre_drill_chip_escape_holes"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "12",
+                "13",
+                "14",
+                "24",
+                "25",
+                "26",
+                "27"
+            ],
+            "location": {
+                "x": 3.552713678800501e-14,
+                "y": 12.5,
+                "z": 110.00000000000003
+            },
+            "measured_value": 70.0000002,
+            "message": "Pocket[OpenPocket_L3_W140_D100]内凸台高度70.00mm，超过允许高度24.00mm",
+            "rule_id": "MILL_HIGH_BOSS",
+            "rule_name": "高凸台（绝对高度）",
+            "severity": "red",
+            "suggestions": [
+                "reduce_boss_height",
+                "consider_multi_setup",
+                "use_specialized_tooling"
+            ],
+            "threshold": 24.0
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "12",
+                "13",
+                "14",
+                "24",
+                "25",
+                "26",
+                "27"
+            ],
+            "location": {
+                "x": 3.552713678800501e-14,
+                "y": 12.5,
+                "z": 110.00000000000003
+            },
+            "measured_value": 23.33333184444457,
+            "message": "Pocket[OpenPocket_L3_W140_D100]内凸台高宽比23.33，超过硬阈值3.00",
+            "rule_id": "MILL_HIGH_BOSS",
+            "rule_name": "高凸台（高宽比）",
+            "severity": "red",
+            "suggestions": [
+                "reduce_boss_height",
+                "increase_base_width",
+                "consider_multi_setup",
+                "use_specialized_tooling"
+            ],
+            "threshold": 3.0
+        }
+    ]
+}

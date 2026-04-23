@@ -1,0 +1,435 @@
+{
+    "face_highlight_map": {
+        "red": [],
+        "yellow": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "55",
+            "58",
+            "59"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 0,
+        "total_violations": 19,
+        "yellow_count": 19
+    },
+    "timestamp": "2026-02-10T15:37:50",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "22"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "23"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "24"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "25"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "29"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "30"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "31"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "32"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "33"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "34"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "36"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "37"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "38"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "39"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "40"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "41"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "55"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "58"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        },
+        {
+            "affected_face_ids": [
+                "59"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 4.2,
+            "message": "孔径Ø4.20mm为非标准尺寸，最近的标准尺寸为Ø4.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø4.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 4.0
+        }
+    ]
+}

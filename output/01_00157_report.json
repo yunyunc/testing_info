@@ -1,0 +1,15 @@
+{
+    "face_highlight_map": {
+        "red": [],
+        "yellow": []
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 0,
+        "total_violations": 0,
+        "yellow_count": 0
+    },
+    "timestamp": "2026-02-10T15:26:36",
+    "violations": []
+}

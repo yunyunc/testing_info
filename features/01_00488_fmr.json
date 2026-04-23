@@ -1,0 +1,3021 @@
+{
+    "version": "1",
+    "parts": [
+        {
+            "partId": "part-001",
+            "partName": "CNC_Part",
+            "geometricProperties": {
+                "volume": "468509.44",
+                "surfaceArea": "115029.05",
+                "AABB": {
+                    "dimensions": {
+                        "x": "185.00",
+                        "y": "15.20",
+                        "z": "220.00"
+                    },
+                    "minCorner": {
+                        "x": "-92.50",
+                        "y": "-0.00",
+                        "z": "-110.00"
+                    },
+                    "maxCorner": {
+                        "x": "92.50",
+                        "y": "15.20",
+                        "z": "110.00"
+                    }
+                }
+            },
+            "process": "CNC Machining Milling",
+            "featureRecognition": {
+                "name": "Feature Recognition",
+                "totalFeatureCount": "151",
+                "featureGroups": [
+                    {
+                        "name": "Flat Face Milled Face(s)",
+                        "color": "(115, 251, 253)",
+                        "totalGroupFeatureCount": "70",
+                        "featureCount": "70",
+                        "features": [
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "1"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "4"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "5"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "6"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "7"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "8"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "9"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "10"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "11"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "12"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "13"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "14"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "15"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "16"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "17"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "18"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "19"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "20"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "21"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "22"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "23"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "24"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "25"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "26"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "27"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "28"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "29"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "30"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "31"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "32"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "549"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "550"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "551"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "552"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "553"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "554"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "555"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "556"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "557"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "558"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "559"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "560"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "561"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "562"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "563"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "564"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "565"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "566"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "567"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "568"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "569"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "570"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "571"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "572"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "573"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "574"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "575"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "576"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "577"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "578"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "579"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "580"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "581"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "582"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "583"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "584"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "585"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "586"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "587"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "588"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Through Hole(s)",
+                        "color": "(240, 135, 132)",
+                        "totalGroupFeatureCount": "4",
+                        "subGroupCount": "1",
+                        "subGroups": [
+                            {
+                                "parametersCount": "3",
+                                "parameters": [
+                                    {
+                                        "name": "Radius",
+                                        "units": "mm",
+                                        "value": "2.000000"
+                                    },
+                                    {
+                                        "name": "Depth",
+                                        "units": "mm",
+                                        "value": "15.000000"
+                                    },
+                                    {
+                                        "name": "Axis",
+                                        "units": "",
+                                        "value": "(0.00, 1.00, 0.00)"
+                                    }
+                                ],
+                                "featureCount": "4",
+                        "features": [
+                            {
+                                "shapeIDCount": "2",
+                                "shapeIDs": [
+                                    {
+                                        "id": "2"
+                                    },
+                                    {
+                                        "id": "3"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "2",
+                                "shapeIDs": [
+                                    {
+                                        "id": "33"
+                                    },
+                                    {
+                                        "id": "34"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "2",
+                                "shapeIDs": [
+                                    {
+                                        "id": "35"
+                                    },
+                                    {
+                                        "id": "36"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "2",
+                                "shapeIDs": [
+                                    {
+                                        "id": "37"
+                                    },
+                                    {
+                                        "id": "38"
+                                    }
+                                ]
+                            }
+                        ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Closed Pocket(s)",
+                        "color": "(81, 20, 0)",
+                        "totalGroupFeatureCount": "16",
+                        "subGroupCount": "1",
+                        "subGroups": [
+                            {
+                                "parametersCount": "4",
+                                "parameters": [
+                                    {
+                                        "name": "Length",
+                                        "units": "mm",
+                                        "value": "12.000000"
+                                    },
+                                    {
+                                        "name": "Width",
+                                        "units": "mm",
+                                        "value": "16.300000"
+                                    },
+                                    {
+                                        "name": "Depth",
+                                        "units": "mm",
+                                        "value": "10.000000"
+                                    },
+                                    {
+                                        "name": "Axis",
+                                        "units": "",
+                                        "value": "(0.00, 0.00, -1.00)"
+                                    }
+                                ],
+                                "featureCount": "16",
+                        "features": [
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "125"
+                                    },
+                                    {
+                                        "id": "173"
+                                    },
+                                    {
+                                        "id": "172"
+                                    },
+                                    {
+                                        "id": "174"
+                                    },
+                                    {
+                                        "id": "175"
+                                    },
+                                    {
+                                        "id": "176"
+                                    },
+                                    {
+                                        "id": "177"
+                                    },
+                                    {
+                                        "id": "178"
+                                    },
+                                    {
+                                        "id": "179"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "124"
+                                    },
+                                    {
+                                        "id": "148"
+                                    },
+                                    {
+                                        "id": "144"
+                                    },
+                                    {
+                                        "id": "145"
+                                    },
+                                    {
+                                        "id": "146"
+                                    },
+                                    {
+                                        "id": "147"
+                                    },
+                                    {
+                                        "id": "149"
+                                    },
+                                    {
+                                        "id": "150"
+                                    },
+                                    {
+                                        "id": "151"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "126"
+                                    },
+                                    {
+                                        "id": "158"
+                                    },
+                                    {
+                                        "id": "157"
+                                    },
+                                    {
+                                        "id": "159"
+                                    },
+                                    {
+                                        "id": "160"
+                                    },
+                                    {
+                                        "id": "161"
+                                    },
+                                    {
+                                        "id": "162"
+                                    },
+                                    {
+                                        "id": "163"
+                                    },
+                                    {
+                                        "id": "164"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "127"
+                                    },
+                                    {
+                                        "id": "545"
+                                    },
+                                    {
+                                        "id": "544"
+                                    },
+                                    {
+                                        "id": "122"
+                                    },
+                                    {
+                                        "id": "187"
+                                    },
+                                    {
+                                        "id": "123"
+                                    },
+                                    {
+                                        "id": "188"
+                                    },
+                                    {
+                                        "id": "189"
+                                    },
+                                    {
+                                        "id": "546"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "44"
+                                    },
+                                    {
+                                        "id": "108"
+                                    },
+                                    {
+                                        "id": "109"
+                                    },
+                                    {
+                                        "id": "110"
+                                    },
+                                    {
+                                        "id": "111"
+                                    },
+                                    {
+                                        "id": "112"
+                                    },
+                                    {
+                                        "id": "113"
+                                    },
+                                    {
+                                        "id": "114"
+                                    },
+                                    {
+                                        "id": "115"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "41"
+                                    },
+                                    {
+                                        "id": "49"
+                                    },
+                                    {
+                                        "id": "50"
+                                    },
+                                    {
+                                        "id": "51"
+                                    },
+                                    {
+                                        "id": "52"
+                                    },
+                                    {
+                                        "id": "53"
+                                    },
+                                    {
+                                        "id": "54"
+                                    },
+                                    {
+                                        "id": "55"
+                                    },
+                                    {
+                                        "id": "56"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "42"
+                                    },
+                                    {
+                                        "id": "321"
+                                    },
+                                    {
+                                        "id": "315"
+                                    },
+                                    {
+                                        "id": "316"
+                                    },
+                                    {
+                                        "id": "317"
+                                    },
+                                    {
+                                        "id": "318"
+                                    },
+                                    {
+                                        "id": "319"
+                                    },
+                                    {
+                                        "id": "320"
+                                    },
+                                    {
+                                        "id": "322"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "43"
+                                    },
+                                    {
+                                        "id": "251"
+                                    },
+                                    {
+                                        "id": "249"
+                                    },
+                                    {
+                                        "id": "250"
+                                    },
+                                    {
+                                        "id": "252"
+                                    },
+                                    {
+                                        "id": "253"
+                                    },
+                                    {
+                                        "id": "254"
+                                    },
+                                    {
+                                        "id": "255"
+                                    },
+                                    {
+                                        "id": "256"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "132"
+                                    },
+                                    {
+                                        "id": "451"
+                                    },
+                                    {
+                                        "id": "447"
+                                    },
+                                    {
+                                        "id": "448"
+                                    },
+                                    {
+                                        "id": "449"
+                                    },
+                                    {
+                                        "id": "450"
+                                    },
+                                    {
+                                        "id": "452"
+                                    },
+                                    {
+                                        "id": "453"
+                                    },
+                                    {
+                                        "id": "454"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "134"
+                                    },
+                                    {
+                                        "id": "477"
+                                    },
+                                    {
+                                        "id": "475"
+                                    },
+                                    {
+                                        "id": "476"
+                                    },
+                                    {
+                                        "id": "478"
+                                    },
+                                    {
+                                        "id": "479"
+                                    },
+                                    {
+                                        "id": "480"
+                                    },
+                                    {
+                                        "id": "481"
+                                    },
+                                    {
+                                        "id": "482"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "135"
+                                    },
+                                    {
+                                        "id": "208"
+                                    },
+                                    {
+                                        "id": "209"
+                                    },
+                                    {
+                                        "id": "210"
+                                    },
+                                    {
+                                        "id": "211"
+                                    },
+                                    {
+                                        "id": "212"
+                                    },
+                                    {
+                                        "id": "213"
+                                    },
+                                    {
+                                        "id": "214"
+                                    },
+                                    {
+                                        "id": "215"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "131"
+                                    },
+                                    {
+                                        "id": "396"
+                                    },
+                                    {
+                                        "id": "394"
+                                    },
+                                    {
+                                        "id": "395"
+                                    },
+                                    {
+                                        "id": "397"
+                                    },
+                                    {
+                                        "id": "398"
+                                    },
+                                    {
+                                        "id": "399"
+                                    },
+                                    {
+                                        "id": "400"
+                                    },
+                                    {
+                                        "id": "401"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "128"
+                                    },
+                                    {
+                                        "id": "335"
+                                    },
+                                    {
+                                        "id": "334"
+                                    },
+                                    {
+                                        "id": "336"
+                                    },
+                                    {
+                                        "id": "337"
+                                    },
+                                    {
+                                        "id": "338"
+                                    },
+                                    {
+                                        "id": "339"
+                                    },
+                                    {
+                                        "id": "340"
+                                    },
+                                    {
+                                        "id": "341"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "129"
+                                    },
+                                    {
+                                        "id": "354"
+                                    },
+                                    {
+                                        "id": "351"
+                                    },
+                                    {
+                                        "id": "352"
+                                    },
+                                    {
+                                        "id": "353"
+                                    },
+                                    {
+                                        "id": "355"
+                                    },
+                                    {
+                                        "id": "372"
+                                    },
+                                    {
+                                        "id": "373"
+                                    },
+                                    {
+                                        "id": "374"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "133"
+                                    },
+                                    {
+                                        "id": "414"
+                                    },
+                                    {
+                                        "id": "411"
+                                    },
+                                    {
+                                        "id": "412"
+                                    },
+                                    {
+                                        "id": "413"
+                                    },
+                                    {
+                                        "id": "415"
+                                    },
+                                    {
+                                        "id": "416"
+                                    },
+                                    {
+                                        "id": "417"
+                                    },
+                                    {
+                                        "id": "418"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "9",
+                                "shapeIDs": [
+                                    {
+                                        "id": "130"
+                                    },
+                                    {
+                                        "id": "289"
+                                    },
+                                    {
+                                        "id": "286"
+                                    },
+                                    {
+                                        "id": "287"
+                                    },
+                                    {
+                                        "id": "288"
+                                    },
+                                    {
+                                        "id": "290"
+                                    },
+                                    {
+                                        "id": "291"
+                                    },
+                                    {
+                                        "id": "292"
+                                    },
+                                    {
+                                        "id": "293"
+                                    }
+                                ]
+                            }
+                        ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Open Pocket(s)",
+                        "color": "(120, 60, 30)",
+                        "totalGroupFeatureCount": "60",
+                        "subGroupCount": "1",
+                        "subGroups": [
+                            {
+                                "parametersCount": "4",
+                                "parameters": [
+                                    {
+                                        "name": "Length",
+                                        "units": "mm",
+                                        "value": "12.000000"
+                                    },
+                                    {
+                                        "name": "Width",
+                                        "units": "mm",
+                                        "value": "159.100000"
+                                    },
+                                    {
+                                        "name": "Depth",
+                                        "units": "mm",
+                                        "value": "15.805000"
+                                    },
+                                    {
+                                        "name": "Axis",
+                                        "units": "",
+                                        "value": "(0.00, 0.00, -1.00)"
+                                    }
+                                ],
+                                "featureCount": "60",
+                        "features": [
+                            {
+                                "shapeIDCount": "21",
+                                "shapeIDs": [
+                                    {
+                                        "id": "46"
+                                    },
+                                    {
+                                        "id": "301"
+                                    },
+                                    {
+                                        "id": "309"
+                                    },
+                                    {
+                                        "id": "172"
+                                    },
+                                    {
+                                        "id": "303"
+                                    },
+                                    {
+                                        "id": "176"
+                                    },
+                                    {
+                                        "id": "300"
+                                    },
+                                    {
+                                        "id": "302"
+                                    },
+                                    {
+                                        "id": "304"
+                                    },
+                                    {
+                                        "id": "305"
+                                    },
+                                    {
+                                        "id": "306"
+                                    },
+                                    {
+                                        "id": "307"
+                                    },
+                                    {
+                                        "id": "308"
+                                    },
+                                    {
+                                        "id": "310"
+                                    },
+                                    {
+                                        "id": "311"
+                                    },
+                                    {
+                                        "id": "334"
+                                    },
+                                    {
+                                        "id": "398"
+                                    },
+                                    {
+                                        "id": "338"
+                                    },
+                                    {
+                                        "id": "394"
+                                    },
+                                    {
+                                        "id": "475"
+                                    },
+                                    {
+                                        "id": "479"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "21",
+                                "shapeIDs": [
+                                    {
+                                        "id": "45"
+                                    },
+                                    {
+                                        "id": "149"
+                                    },
+                                    {
+                                        "id": "153"
+                                    },
+                                    {
+                                        "id": "145"
+                                    },
+                                    {
+                                        "id": "152"
+                                    },
+                                    {
+                                        "id": "154"
+                                    },
+                                    {
+                                        "id": "155"
+                                    },
+                                    {
+                                        "id": "156"
+                                    },
+                                    {
+                                        "id": "157"
+                                    },
+                                    {
+                                        "id": "278"
+                                    },
+                                    {
+                                        "id": "161"
+                                    },
+                                    {
+                                        "id": "276"
+                                    },
+                                    {
+                                        "id": "277"
+                                    },
+                                    {
+                                        "id": "279"
+                                    },
+                                    {
+                                        "id": "286"
+                                    },
+                                    {
+                                        "id": "290"
+                                    },
+                                    {
+                                        "id": "447"
+                                    },
+                                    {
+                                        "id": "451"
+                                    },
+                                    {
+                                        "id": "506"
+                                    },
+                                    {
+                                        "id": "507"
+                                    },
+                                    {
+                                        "id": "508"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "21",
+                                "shapeIDs": [
+                                    {
+                                        "id": "47"
+                                    },
+                                    {
+                                        "id": "191"
+                                    },
+                                    {
+                                        "id": "194"
+                                    },
+                                    {
+                                        "id": "122"
+                                    },
+                                    {
+                                        "id": "187"
+                                    },
+                                    {
+                                        "id": "190"
+                                    },
+                                    {
+                                        "id": "192"
+                                    },
+                                    {
+                                        "id": "193"
+                                    },
+                                    {
+                                        "id": "195"
+                                    },
+                                    {
+                                        "id": "196"
+                                    },
+                                    {
+                                        "id": "197"
+                                    },
+                                    {
+                                        "id": "198"
+                                    },
+                                    {
+                                        "id": "199"
+                                    },
+                                    {
+                                        "id": "200"
+                                    },
+                                    {
+                                        "id": "201"
+                                    },
+                                    {
+                                        "id": "208"
+                                    },
+                                    {
+                                        "id": "351"
+                                    },
+                                    {
+                                        "id": "415"
+                                    },
+                                    {
+                                        "id": "212"
+                                    },
+                                    {
+                                        "id": "355"
+                                    },
+                                    {
+                                        "id": "411"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "21",
+                                "shapeIDs": [
+                                    {
+                                        "id": "48"
+                                    },
+                                    {
+                                        "id": "224"
+                                    },
+                                    {
+                                        "id": "40"
+                                    },
+                                    {
+                                        "id": "223"
+                                    },
+                                    {
+                                        "id": "39"
+                                    },
+                                    {
+                                        "id": "222"
+                                    },
+                                    {
+                                        "id": "225"
+                                    },
+                                    {
+                                        "id": "226"
+                                    },
+                                    {
+                                        "id": "536"
+                                    },
+                                    {
+                                        "id": "227"
+                                    },
+                                    {
+                                        "id": "365"
+                                    },
+                                    {
+                                        "id": "369"
+                                    },
+                                    {
+                                        "id": "428"
+                                    },
+                                    {
+                                        "id": "432"
+                                    },
+                                    {
+                                        "id": "513"
+                                    },
+                                    {
+                                        "id": "516"
+                                    },
+                                    {
+                                        "id": "524"
+                                    },
+                                    {
+                                        "id": "534"
+                                    },
+                                    {
+                                        "id": "535"
+                                    },
+                                    {
+                                        "id": "537"
+                                    },
+                                    {
+                                        "id": "538"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "18",
+                                "shapeIDs": [
+                                    {
+                                        "id": "89"
+                                    },
+                                    {
+                                        "id": "241"
+                                    },
+                                    {
+                                        "id": "246"
+                                    },
+                                    {
+                                        "id": "509"
+                                    },
+                                    {
+                                        "id": "238"
+                                    },
+                                    {
+                                        "id": "239"
+                                    },
+                                    {
+                                        "id": "240"
+                                    },
+                                    {
+                                        "id": "242"
+                                    },
+                                    {
+                                        "id": "243"
+                                    },
+                                    {
+                                        "id": "247"
+                                    },
+                                    {
+                                        "id": "635"
+                                    },
+                                    {
+                                        "id": "636"
+                                    },
+                                    {
+                                        "id": "637"
+                                    },
+                                    {
+                                        "id": "638"
+                                    },
+                                    {
+                                        "id": "639"
+                                    },
+                                    {
+                                        "id": "640"
+                                    },
+                                    {
+                                        "id": "641"
+                                    },
+                                    {
+                                        "id": "642"
+                                    }
+                                ],
+                                "bossesIDs": ["635", "636", "637", "638", "639", "640", "641", "642"]
+                            },
+                            {
+                                "shapeIDCount": "18",
+                                "shapeIDs": [
+                                    {
+                                        "id": "98"
+                                    },
+                                    {
+                                        "id": "497"
+                                    },
+                                    {
+                                        "id": "281"
+                                    },
+                                    {
+                                        "id": "498"
+                                    },
+                                    {
+                                        "id": "282"
+                                    },
+                                    {
+                                        "id": "285"
+                                    },
+                                    {
+                                        "id": "495"
+                                    },
+                                    {
+                                        "id": "496"
+                                    },
+                                    {
+                                        "id": "499"
+                                    },
+                                    {
+                                        "id": "505"
+                                    },
+                                    {
+                                        "id": "659"
+                                    },
+                                    {
+                                        "id": "660"
+                                    },
+                                    {
+                                        "id": "661"
+                                    },
+                                    {
+                                        "id": "662"
+                                    },
+                                    {
+                                        "id": "663"
+                                    },
+                                    {
+                                        "id": "664"
+                                    },
+                                    {
+                                        "id": "665"
+                                    },
+                                    {
+                                        "id": "666"
+                                    }
+                                ],
+                                "bossesIDs": ["659", "660", "661", "662", "663", "664", "665", "666"]
+                            },
+                            {
+                                "shapeIDCount": "15",
+                                "shapeIDs": [
+                                    {
+                                        "id": "90"
+                                    },
+                                    {
+                                        "id": "259"
+                                    },
+                                    {
+                                        "id": "267"
+                                    },
+                                    {
+                                        "id": "275"
+                                    },
+                                    {
+                                        "id": "264"
+                                    },
+                                    {
+                                        "id": "268"
+                                    },
+                                    {
+                                        "id": "269"
+                                    },
+                                    {
+                                        "id": "643"
+                                    },
+                                    {
+                                        "id": "644"
+                                    },
+                                    {
+                                        "id": "645"
+                                    },
+                                    {
+                                        "id": "646"
+                                    },
+                                    {
+                                        "id": "647"
+                                    },
+                                    {
+                                        "id": "648"
+                                    },
+                                    {
+                                        "id": "649"
+                                    },
+                                    {
+                                        "id": "650"
+                                    }
+                                ],
+                                "bossesIDs": ["643", "644", "645", "646", "647", "648", "649", "650"]
+                            },
+                            {
+                                "shapeIDCount": "15",
+                                "shapeIDs": [
+                                    {
+                                        "id": "97"
+                                    },
+                                    {
+                                        "id": "460"
+                                    },
+                                    {
+                                        "id": "461"
+                                    },
+                                    {
+                                        "id": "469"
+                                    },
+                                    {
+                                        "id": "462"
+                                    },
+                                    {
+                                        "id": "470"
+                                    },
+                                    {
+                                        "id": "463"
+                                    },
+                                    {
+                                        "id": "651"
+                                    },
+                                    {
+                                        "id": "652"
+                                    },
+                                    {
+                                        "id": "653"
+                                    },
+                                    {
+                                        "id": "654"
+                                    },
+                                    {
+                                        "id": "655"
+                                    },
+                                    {
+                                        "id": "656"
+                                    },
+                                    {
+                                        "id": "657"
+                                    },
+                                    {
+                                        "id": "658"
+                                    }
+                                ],
+                                "bossesIDs": ["651", "652", "653", "654", "655", "656", "657", "658"]
+                            },
+                            {
+                                "shapeIDCount": "14",
+                                "shapeIDs": [
+                                    {
+                                        "id": "103"
+                                    },
+                                    {
+                                        "id": "207"
+                                    },
+                                    {
+                                        "id": "484"
+                                    },
+                                    {
+                                        "id": "203"
+                                    },
+                                    {
+                                        "id": "483"
+                                    },
+                                    {
+                                        "id": "204"
+                                    },
+                                    {
+                                        "id": "485"
+                                    },
+                                    {
+                                        "id": "486"
+                                    },
+                                    {
+                                        "id": "487"
+                                    },
+                                    {
+                                        "id": "488"
+                                    },
+                                    {
+                                        "id": "615"
+                                    },
+                                    {
+                                        "id": "616"
+                                    },
+                                    {
+                                        "id": "617"
+                                    },
+                                    {
+                                        "id": "618"
+                                    }
+                                ],
+                                "bossesIDs": ["615", "616", "617", "618"]
+                            },
+                            {
+                                "shapeIDCount": "14",
+                                "shapeIDs": [
+                                    {
+                                        "id": "94"
+                                    },
+                                    {
+                                        "id": "116"
+                                    },
+                                    {
+                                        "id": "117"
+                                    },
+                                    {
+                                        "id": "119"
+                                    },
+                                    {
+                                        "id": "120"
+                                    },
+                                    {
+                                        "id": "527"
+                                    },
+                                    {
+                                        "id": "121"
+                                    },
+                                    {
+                                        "id": "525"
+                                    },
+                                    {
+                                        "id": "528"
+                                    },
+                                    {
+                                        "id": "529"
+                                    },
+                                    {
+                                        "id": "589"
+                                    },
+                                    {
+                                        "id": "590"
+                                    },
+                                    {
+                                        "id": "591"
+                                    },
+                                    {
+                                        "id": "592"
+                                    }
+                                ],
+                                "bossesIDs": ["589", "590", "591", "592"]
+                            },
+                            {
+                                "shapeIDCount": "14",
+                                "shapeIDs": [
+                                    {
+                                        "id": "104"
+                                    },
+                                    {
+                                        "id": "216"
+                                    },
+                                    {
+                                        "id": "217"
+                                    },
+                                    {
+                                        "id": "218"
+                                    },
+                                    {
+                                        "id": "220"
+                                    },
+                                    {
+                                        "id": "515"
+                                    },
+                                    {
+                                        "id": "221"
+                                    },
+                                    {
+                                        "id": "523"
+                                    },
+                                    {
+                                        "id": "521"
+                                    },
+                                    {
+                                        "id": "522"
+                                    },
+                                    {
+                                        "id": "547"
+                                    },
+                                    {
+                                        "id": "548"
+                                    },
+                                    {
+                                        "id": "601"
+                                    },
+                                    {
+                                        "id": "602"
+                                    }
+                                ],
+                                "bossesIDs": ["547", "548", "601", "602"]
+                            },
+                            {
+                                "shapeIDCount": "14",
+                                "shapeIDs": [
+                                    {
+                                        "id": "99"
+                                    },
+                                    {
+                                        "id": "492"
+                                    },
+                                    {
+                                        "id": "294"
+                                    },
+                                    {
+                                        "id": "295"
+                                    },
+                                    {
+                                        "id": "296"
+                                    },
+                                    {
+                                        "id": "490"
+                                    },
+                                    {
+                                        "id": "298"
+                                    },
+                                    {
+                                        "id": "299"
+                                    },
+                                    {
+                                        "id": "493"
+                                    },
+                                    {
+                                        "id": "494"
+                                    },
+                                    {
+                                        "id": "631"
+                                    },
+                                    {
+                                        "id": "632"
+                                    },
+                                    {
+                                        "id": "633"
+                                    },
+                                    {
+                                        "id": "634"
+                                    }
+                                ],
+                                "bossesIDs": ["631", "632", "633", "634"]
+                            },
+                            {
+                                "shapeIDCount": "14",
+                                "shapeIDs": [
+                                    {
+                                        "id": "93"
+                                    },
+                                    {
+                                        "id": "165"
+                                    },
+                                    {
+                                        "id": "166"
+                                    },
+                                    {
+                                        "id": "167"
+                                    },
+                                    {
+                                        "id": "168"
+                                    },
+                                    {
+                                        "id": "169"
+                                    },
+                                    {
+                                        "id": "170"
+                                    },
+                                    {
+                                        "id": "323"
+                                    },
+                                    {
+                                        "id": "324"
+                                    },
+                                    {
+                                        "id": "326"
+                                    },
+                                    {
+                                        "id": "619"
+                                    },
+                                    {
+                                        "id": "620"
+                                    },
+                                    {
+                                        "id": "621"
+                                    },
+                                    {
+                                        "id": "622"
+                                    }
+                                ],
+                                "bossesIDs": ["619", "620", "621", "622"]
+                            },
+                            {
+                                "shapeIDCount": "14",
+                                "shapeIDs": [
+                                    {
+                                        "id": "92"
+                                    },
+                                    {
+                                        "id": "180"
+                                    },
+                                    {
+                                        "id": "539"
+                                    },
+                                    {
+                                        "id": "181"
+                                    },
+                                    {
+                                        "id": "182"
+                                    },
+                                    {
+                                        "id": "183"
+                                    },
+                                    {
+                                        "id": "184"
+                                    },
+                                    {
+                                        "id": "185"
+                                    },
+                                    {
+                                        "id": "540"
+                                    },
+                                    {
+                                        "id": "542"
+                                    },
+                                    {
+                                        "id": "603"
+                                    },
+                                    {
+                                        "id": "604"
+                                    },
+                                    {
+                                        "id": "605"
+                                    },
+                                    {
+                                        "id": "606"
+                                    }
+                                ],
+                                "bossesIDs": ["603", "604", "605", "606"]
+                            },
+                            {
+                                "shapeIDCount": "11",
+                                "shapeIDs": [
+                                    {
+                                        "id": "102"
+                                    },
+                                    {
+                                        "id": "421"
+                                    },
+                                    {
+                                        "id": "437"
+                                    },
+                                    {
+                                        "id": "419"
+                                    },
+                                    {
+                                        "id": "420"
+                                    },
+                                    {
+                                        "id": "424"
+                                    },
+                                    {
+                                        "id": "434"
+                                    },
+                                    {
+                                        "id": "597"
+                                    },
+                                    {
+                                        "id": "598"
+                                    },
+                                    {
+                                        "id": "599"
+                                    },
+                                    {
+                                        "id": "600"
+                                    }
+                                ],
+                                "bossesIDs": ["597", "598", "599", "600"]
+                            },
+                            {
+                                "shapeIDCount": "11",
+                                "shapeIDs": [
+                                    {
+                                        "id": "100"
+                                    },
+                                    {
+                                        "id": "403"
+                                    },
+                                    {
+                                        "id": "402"
+                                    },
+                                    {
+                                        "id": "442"
+                                    },
+                                    {
+                                        "id": "404"
+                                    },
+                                    {
+                                        "id": "407"
+                                    },
+                                    {
+                                        "id": "439"
+                                    },
+                                    {
+                                        "id": "611"
+                                    },
+                                    {
+                                        "id": "612"
+                                    },
+                                    {
+                                        "id": "613"
+                                    },
+                                    {
+                                        "id": "614"
+                                    }
+                                ],
+                                "bossesIDs": ["611", "612", "613", "614"]
+                            },
+                            {
+                                "shapeIDCount": "11",
+                                "shapeIDs": [
+                                    {
+                                        "id": "91"
+                                    },
+                                    {
+                                        "id": "330"
+                                    },
+                                    {
+                                        "id": "386"
+                                    },
+                                    {
+                                        "id": "381"
+                                    },
+                                    {
+                                        "id": "384"
+                                    },
+                                    {
+                                        "id": "385"
+                                    },
+                                    {
+                                        "id": "387"
+                                    },
+                                    {
+                                        "id": "623"
+                                    },
+                                    {
+                                        "id": "624"
+                                    },
+                                    {
+                                        "id": "625"
+                                    },
+                                    {
+                                        "id": "626"
+                                    }
+                                ],
+                                "bossesIDs": ["623", "624", "625", "626"]
+                            },
+                            {
+                                "shapeIDCount": "11",
+                                "shapeIDs": [
+                                    {
+                                        "id": "101"
+                                    },
+                                    {
+                                        "id": "390"
+                                    },
+                                    {
+                                        "id": "446"
+                                    },
+                                    {
+                                        "id": "312"
+                                    },
+                                    {
+                                        "id": "444"
+                                    },
+                                    {
+                                        "id": "445"
+                                    },
+                                    {
+                                        "id": "474"
+                                    },
+                                    {
+                                        "id": "627"
+                                    },
+                                    {
+                                        "id": "628"
+                                    },
+                                    {
+                                        "id": "629"
+                                    },
+                                    {
+                                        "id": "630"
+                                    }
+                                ],
+                                "bossesIDs": ["627", "628", "629", "630"]
+                            },
+                            {
+                                "shapeIDCount": "11",
+                                "shapeIDs": [
+                                    {
+                                        "id": "95"
+                                    },
+                                    {
+                                        "id": "344"
+                                    },
+                                    {
+                                        "id": "376"
+                                    },
+                                    {
+                                        "id": "342"
+                                    },
+                                    {
+                                        "id": "343"
+                                    },
+                                    {
+                                        "id": "347"
+                                    },
+                                    {
+                                        "id": "379"
+                                    },
+                                    {
+                                        "id": "607"
+                                    },
+                                    {
+                                        "id": "608"
+                                    },
+                                    {
+                                        "id": "609"
+                                    },
+                                    {
+                                        "id": "610"
+                                    }
+                                ],
+                                "bossesIDs": ["607", "608", "609", "610"]
+                            },
+                            {
+                                "shapeIDCount": "11",
+                                "shapeIDs": [
+                                    {
+                                        "id": "96"
+                                    },
+                                    {
+                                        "id": "105"
+                                    },
+                                    {
+                                        "id": "356"
+                                    },
+                                    {
+                                        "id": "357"
+                                    },
+                                    {
+                                        "id": "358"
+                                    },
+                                    {
+                                        "id": "361"
+                                    },
+                                    {
+                                        "id": "371"
+                                    },
+                                    {
+                                        "id": "593"
+                                    },
+                                    {
+                                        "id": "594"
+                                    },
+                                    {
+                                        "id": "595"
+                                    },
+                                    {
+                                        "id": "596"
+                                    }
+                                ],
+                                "bossesIDs": ["593", "594", "595", "596"]
+                            },
+                            {
+                                "shapeIDCount": "6",
+                                "shapeIDs": [
+                                    {
+                                        "id": "136"
+                                    },
+                                    {
+                                        "id": "227"
+                                    },
+                                    {
+                                        "id": "533"
+                                    },
+                                    {
+                                        "id": "524"
+                                    },
+                                    {
+                                        "id": "532"
+                                    },
+                                    {
+                                        "id": "531"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "6",
+                                "shapeIDs": [
+                                    {
+                                        "id": "141"
+                                    },
+                                    {
+                                        "id": "430"
+                                    },
+                                    {
+                                        "id": "428"
+                                    },
+                                    {
+                                        "id": "429"
+                                    },
+                                    {
+                                        "id": "431"
+                                    },
+                                    {
+                                        "id": "432"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "6",
+                                "shapeIDs": [
+                                    {
+                                        "id": "143"
+                                    },
+                                    {
+                                        "id": "464"
+                                    },
+                                    {
+                                        "id": "465"
+                                    },
+                                    {
+                                        "id": "466"
+                                    },
+                                    {
+                                        "id": "467"
+                                    },
+                                    {
+                                        "id": "468"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "6",
+                                "shapeIDs": [
+                                    {
+                                        "id": "139"
+                                    },
+                                    {
+                                        "id": "270"
+                                    },
+                                    {
+                                        "id": "271"
+                                    },
+                                    {
+                                        "id": "272"
+                                    },
+                                    {
+                                        "id": "273"
+                                    },
+                                    {
+                                        "id": "274"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "6",
+                                "shapeIDs": [
+                                    {
+                                        "id": "142"
+                                    },
+                                    {
+                                        "id": "501"
+                                    },
+                                    {
+                                        "id": "500"
+                                    },
+                                    {
+                                        "id": "502"
+                                    },
+                                    {
+                                        "id": "503"
+                                    },
+                                    {
+                                        "id": "504"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "6",
+                                "shapeIDs": [
+                                    {
+                                        "id": "138"
+                                    },
+                                    {
+                                        "id": "234"
+                                    },
+                                    {
+                                        "id": "233"
+                                    },
+                                    {
+                                        "id": "235"
+                                    },
+                                    {
+                                        "id": "236"
+                                    },
+                                    {
+                                        "id": "237"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "6",
+                                "shapeIDs": [
+                                    {
+                                        "id": "140"
+                                    },
+                                    {
+                                        "id": "518"
+                                    },
+                                    {
+                                        "id": "513"
+                                    },
+                                    {
+                                        "id": "516"
+                                    },
+                                    {
+                                        "id": "517"
+                                    },
+                                    {
+                                        "id": "519"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "6",
+                                "shapeIDs": [
+                                    {
+                                        "id": "137"
+                                    },
+                                    {
+                                        "id": "365"
+                                    },
+                                    {
+                                        "id": "366"
+                                    },
+                                    {
+                                        "id": "367"
+                                    },
+                                    {
+                                        "id": "368"
+                                    },
+                                    {
+                                        "id": "369"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "68"
+                                    },
+                                    {
+                                        "id": "186"
+                                    },
+                                    {
+                                        "id": "541"
+                                    },
+                                    {
+                                        "id": "543"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "79"
+                                    },
+                                    {
+                                        "id": "427"
+                                    },
+                                    {
+                                        "id": "433"
+                                    },
+                                    {
+                                        "id": "436"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "66"
+                                    },
+                                    {
+                                        "id": "359"
+                                    },
+                                    {
+                                        "id": "362"
+                                    },
+                                    {
+                                        "id": "363"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "88"
+                                    },
+                                    {
+                                        "id": "456"
+                                    },
+                                    {
+                                        "id": "472"
+                                    },
+                                    {
+                                        "id": "473"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "82"
+                                    },
+                                    {
+                                        "id": "441"
+                                    },
+                                    {
+                                        "id": "410"
+                                    },
+                                    {
+                                        "id": "438"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "69"
+                                    },
+                                    {
+                                        "id": "345"
+                                    },
+                                    {
+                                        "id": "348"
+                                    },
+                                    {
+                                        "id": "349"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "75"
+                                    },
+                                    {
+                                        "id": "260"
+                                    },
+                                    {
+                                        "id": "257"
+                                    },
+                                    {
+                                        "id": "261"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "85"
+                                    },
+                                    {
+                                        "id": "314"
+                                    },
+                                    {
+                                        "id": "393"
+                                    },
+                                    {
+                                        "id": "443"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "65"
+                                    },
+                                    {
+                                        "id": "118"
+                                    },
+                                    {
+                                        "id": "526"
+                                    },
+                                    {
+                                        "id": "530"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "67"
+                                    },
+                                    {
+                                        "id": "107"
+                                    },
+                                    {
+                                        "id": "364"
+                                    },
+                                    {
+                                        "id": "370"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "77"
+                                    },
+                                    {
+                                        "id": "219"
+                                    },
+                                    {
+                                        "id": "514"
+                                    },
+                                    {
+                                        "id": "520"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "78"
+                                    },
+                                    {
+                                        "id": "422"
+                                    },
+                                    {
+                                        "id": "425"
+                                    },
+                                    {
+                                        "id": "426"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "72"
+                                    },
+                                    {
+                                        "id": "328"
+                                    },
+                                    {
+                                        "id": "331"
+                                    },
+                                    {
+                                        "id": "332"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "74"
+                                    },
+                                    {
+                                        "id": "244"
+                                    },
+                                    {
+                                        "id": "245"
+                                    },
+                                    {
+                                        "id": "248"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "86"
+                                    },
+                                    {
+                                        "id": "280"
+                                    },
+                                    {
+                                        "id": "283"
+                                    },
+                                    {
+                                        "id": "284"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "80"
+                                    },
+                                    {
+                                        "id": "202"
+                                    },
+                                    {
+                                        "id": "205"
+                                    },
+                                    {
+                                        "id": "206"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "76"
+                                    },
+                                    {
+                                        "id": "262"
+                                    },
+                                    {
+                                        "id": "263"
+                                    },
+                                    {
+                                        "id": "266"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "70"
+                                    },
+                                    {
+                                        "id": "350"
+                                    },
+                                    {
+                                        "id": "375"
+                                    },
+                                    {
+                                        "id": "378"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "71"
+                                    },
+                                    {
+                                        "id": "171"
+                                    },
+                                    {
+                                        "id": "325"
+                                    },
+                                    {
+                                        "id": "327"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "83"
+                                    },
+                                    {
+                                        "id": "297"
+                                    },
+                                    {
+                                        "id": "489"
+                                    },
+                                    {
+                                        "id": "491"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "81"
+                                    },
+                                    {
+                                        "id": "405"
+                                    },
+                                    {
+                                        "id": "408"
+                                    },
+                                    {
+                                        "id": "409"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "87"
+                                    },
+                                    {
+                                        "id": "455"
+                                    },
+                                    {
+                                        "id": "457"
+                                    },
+                                    {
+                                        "id": "458"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "73"
+                                    },
+                                    {
+                                        "id": "333"
+                                    },
+                                    {
+                                        "id": "380"
+                                    },
+                                    {
+                                        "id": "383"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "4",
+                                "shapeIDs": [
+                                    {
+                                        "id": "84"
+                                    },
+                                    {
+                                        "id": "388"
+                                    },
+                                    {
+                                        "id": "391"
+                                    },
+                                    {
+                                        "id": "392"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "62"
+                                    },
+                                    {
+                                        "id": "389"
+                                    },
+                                    {
+                                        "id": "313"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "60"
+                                    },
+                                    {
+                                        "id": "406"
+                                    },
+                                    {
+                                        "id": "440"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "61"
+                                    },
+                                    {
+                                        "id": "382"
+                                    },
+                                    {
+                                        "id": "329"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "59"
+                                    },
+                                    {
+                                        "id": "346"
+                                    },
+                                    {
+                                        "id": "377"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "64"
+                                    },
+                                    {
+                                        "id": "471"
+                                    },
+                                    {
+                                        "id": "459"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "63"
+                                    },
+                                    {
+                                        "id": "258"
+                                    },
+                                    {
+                                        "id": "265"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "58"
+                                    },
+                                    {
+                                        "id": "423"
+                                    },
+                                    {
+                                        "id": "435"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "57"
+                                    },
+                                    {
+                                        "id": "106"
+                                    },
+                                    {
+                                        "id": "360"
+                                    }
+                                ]
+                            }
+                        ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Profile Feature(s)",
+                        "color": "(0, 200, 100)",
+                        "totalGroupFeatureCount": "1",
+                        "featureCount": "1",
+                        "features": [
+                            {
+                                "shapeIDCount": "8",
+                                "shapeIDs": [
+                                    {
+                                        "id": "228"
+                                    },
+                                    {
+                                        "id": "229"
+                                    },
+                                    {
+                                        "id": "230"
+                                    },
+                                    {
+                                        "id": "231"
+                                    },
+                                    {
+                                        "id": "232"
+                                    },
+                                    {
+                                        "id": "510"
+                                    },
+                                    {
+                                        "id": "511"
+                                    },
+                                    {
+                                        "id": "512"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

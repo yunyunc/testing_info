@@ -1,0 +1,40 @@
+{
+    "face_highlight_map": {
+        "red": [],
+        "yellow": [
+            "129"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 0,
+        "total_violations": 1,
+        "yellow_count": 1
+    },
+    "timestamp": "2026-02-10T15:31:30",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "129"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 0.499999999999989,
+            "message": "型腔内角圆角半径R=0.50mm，小于推荐阈值0.50mm（0.5 * D_tool=1.00mm），刀具清角困难，加工时间增加30-50%",
+            "rule_id": "MILL_SMALL_INTERNAL_RADIUS",
+            "rule_name": "内角小圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_increase_fillet_radius",
+                "use_high_rigidity_tooling",
+                "optimize_tool_path",
+                "accept_higher_cost"
+            ],
+            "threshold": 0.5
+        }
+    ]
+}

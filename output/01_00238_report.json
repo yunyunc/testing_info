@@ -1,0 +1,40 @@
+{
+    "face_highlight_map": {
+        "red": [],
+        "yellow": [
+            "20",
+            "32"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 0,
+        "total_violations": 1,
+        "yellow_count": 1
+    },
+    "timestamp": "2026-02-10T15:30:27",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "20",
+                "32"
+            ],
+            "location": {
+                "x": 13.184464620389095,
+                "y": 60.77741935483709,
+                "z": 0.0
+            },
+            "measured_value": 1.1999999999996263,
+            "message": "Pocket[ClosedPocket_L110.211_W191.094_D3]到轮廓的壁厚1.20mm，低于推荐值1.50mm",
+            "rule_id": "MILL_SMALL_WALL_THICKNESS",
+            "rule_name": "小壁厚",
+            "severity": "yellow",
+            "suggestions": [
+                "增加壁厚",
+                "添加加强筋"
+            ],
+            "threshold": 1.5
+        }
+    ]
+}

@@ -1,0 +1,311 @@
+{
+    "face_highlight_map": {
+        "red": [],
+        "yellow": [
+            "1",
+            "54",
+            "2",
+            "53",
+            "3",
+            "52",
+            "4",
+            "51",
+            "6",
+            "48",
+            "12",
+            "41",
+            "1",
+            "54",
+            "2",
+            "53",
+            "3",
+            "52",
+            "4",
+            "51",
+            "6",
+            "48",
+            "12",
+            "41"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 0,
+        "total_violations": 12,
+        "yellow_count": 12
+    },
+    "timestamp": "2026-02-10T15:42:36",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "1",
+                "54"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "2",
+                "53"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "3",
+                "52"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "4",
+                "51"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "6",
+                "48"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "12",
+                "41"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 2.5,
+            "message": "孔径2.5mm小于推荐阈值3mm",
+            "rule_id": "DRILL_SMALL_DIAMETER",
+            "rule_name": "小孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "use_standard_drill_size",
+                "relax_tolerance",
+                "consider_cost_tradeoff"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "1",
+                "54"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.2111972,
+            "message": "孔深度15.53mm，直径2.50mm，L/D比6.21大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "2",
+                "53"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.2111972,
+            "message": "孔深度15.53mm，直径2.50mm，L/D比6.21大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "3",
+                "52"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.2111972,
+            "message": "孔深度15.53mm，直径2.50mm，L/D比6.21大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "4",
+                "51"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.2111972,
+            "message": "孔深度15.53mm，直径2.50mm，L/D比6.21大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "6",
+                "48"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.2111972,
+            "message": "孔深度15.53mm，直径2.50mm，L/D比6.21大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "12",
+                "41"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.2111972,
+            "message": "孔深度15.53mm，直径2.50mm，L/D比6.21大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        }
+    ]
+}

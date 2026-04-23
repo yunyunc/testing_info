@@ -1,0 +1,135 @@
+{
+    "face_highlight_map": {
+        "red": [],
+        "yellow": [
+            "1",
+            "146",
+            "2",
+            "3",
+            "144",
+            "4"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 0,
+        "total_violations": 6,
+        "yellow_count": 6
+    },
+    "timestamp": "2026-02-10T15:37:11",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "1",
+                "146",
+                "2"
+            ],
+            "location": {
+                "x": 139.3529350563731,
+                "y": 0.18266703672557838,
+                "z": -0.06963281121616804
+            },
+            "measured_value": 0.4999999999999846,
+            "message": "孔 [ThroughHole_R1.5_D5_0] 距离 Pocket [ClosedPocket_L15.05_W15.0896_D1.5] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "3",
+                "144",
+                "4"
+            ],
+            "location": {
+                "x": 139.3529350563731,
+                "y": 162.182667036752,
+                "z": -0.06963281121616804
+            },
+            "measured_value": 0.4999999999999912,
+            "message": "孔 [ThroughHole_R1.5_D5_1] 距离 Pocket [ClosedPocket_L15.05_W15.0896_D1.5] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.9422914e-317
+            },
+            "measured_value": 7.550000000000001,
+            "message": "Pocket \"ClosedPocket_L15.05_W15.0896_D1.5\" 的底部圆角半径 R7.55mm 不是标准球刀半径。建议调整为 R6mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R6mm，或确认使用定制刀具。"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.9422914e-317
+            },
+            "measured_value": 7.550000000000001,
+            "message": "Pocket \"ClosedPocket_L15.05_W15.0896_D1.5\" 的底部圆角半径 R7.55mm 不是标准球刀半径。建议调整为 R6mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R6mm，或确认使用定制刀具。"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.9422914e-317
+            },
+            "measured_value": 7.550000000000001,
+            "message": "Pocket \"ClosedPocket_L15.05_W15.0896_D1.5\" 的底部圆角半径 R7.55mm 不是标准球刀半径。建议调整为 R6mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R6mm，或确认使用定制刀具。"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 2.9422914e-317
+            },
+            "measured_value": 7.550000000000001,
+            "message": "Pocket \"ClosedPocket_L15.05_W15.0896_D1.5\" 的底部圆角半径 R7.55mm 不是标准球刀半径。建议调整为 R6mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R6mm，或确认使用定制刀具。"
+            ],
+            "threshold": 6.0
+        }
+    ]
+}

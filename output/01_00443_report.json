@@ -1,0 +1,286 @@
+{
+    "face_highlight_map": {
+        "red": [
+            "13",
+            "2",
+            "25",
+            "2",
+            "25",
+            "2",
+            "25"
+        ],
+        "yellow": [
+            "3",
+            "24",
+            "4",
+            "23",
+            "5",
+            "22",
+            "6",
+            "21",
+            "7",
+            "20",
+            "8",
+            "19",
+            "9",
+            "18",
+            "11",
+            "16"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 3,
+        "total_violations": 11,
+        "yellow_count": 8
+    },
+    "timestamp": "2026-02-10T15:41:57",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "3",
+                "24"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 5.3,
+            "message": "孔径Ø5.30mm为非标准尺寸，最近的标准尺寸为Ø5.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø5.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 5.5
+        },
+        {
+            "affected_face_ids": [
+                "4",
+                "23"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 5.3,
+            "message": "孔径Ø5.30mm为非标准尺寸，最近的标准尺寸为Ø5.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø5.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 5.5
+        },
+        {
+            "affected_face_ids": [
+                "5",
+                "22"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 5.3,
+            "message": "孔径Ø5.30mm为非标准尺寸，最近的标准尺寸为Ø5.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø5.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 5.5
+        },
+        {
+            "affected_face_ids": [
+                "6",
+                "21"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 5.3,
+            "message": "孔径Ø5.30mm为非标准尺寸，最近的标准尺寸为Ø5.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø5.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 5.5
+        },
+        {
+            "affected_face_ids": [
+                "7",
+                "20"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 5.3,
+            "message": "孔径Ø5.30mm为非标准尺寸，最近的标准尺寸为Ø5.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø5.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 5.5
+        },
+        {
+            "affected_face_ids": [
+                "8",
+                "19"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 5.3,
+            "message": "孔径Ø5.30mm为非标准尺寸，最近的标准尺寸为Ø5.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø5.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 5.5
+        },
+        {
+            "affected_face_ids": [
+                "9",
+                "18"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 5.3,
+            "message": "孔径Ø5.30mm为非标准尺寸，最近的标准尺寸为Ø5.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø5.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 5.5
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "16"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 5.3,
+            "message": "孔径Ø5.30mm为非标准尺寸，最近的标准尺寸为Ø5.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø5.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 5.5
+        },
+        {
+            "affected_face_ids": [
+                "13",
+                "2",
+                "25"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 9.0625,
+            "message": "型腔深度145.00mm，最小宽度16.00mm，深宽比9.06大于硬阈值6.00",
+            "rule_id": "MILL_DEEP_POCKET",
+            "rule_name": "深腔",
+            "severity": "red",
+            "suggestions": [
+                "reduce_depth",
+                "increase_opening_width",
+                "use_stepdown_machining",
+                "pre_drill_chip_escape_holes"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "2",
+                "25"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 12.0,
+                "z": 0.0
+            },
+            "measured_value": 123.00000020000002,
+            "message": "Pocket[OpenPocket_L16_W145_D145]内凸台高度123.00mm，超过允许高度24.00mm",
+            "rule_id": "MILL_HIGH_BOSS",
+            "rule_name": "高凸台（绝对高度）",
+            "severity": "red",
+            "suggestions": [
+                "reduce_boss_height",
+                "consider_multi_setup",
+                "use_specialized_tooling"
+            ],
+            "threshold": 24.0
+        },
+        {
+            "affected_face_ids": [
+                "2",
+                "25"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 12.0,
+                "z": 0.0
+            },
+            "measured_value": 7.687499916406251,
+            "message": "Pocket[OpenPocket_L16_W145_D145]内凸台高宽比7.69，超过硬阈值3.00",
+            "rule_id": "MILL_HIGH_BOSS",
+            "rule_name": "高凸台（高宽比）",
+            "severity": "red",
+            "suggestions": [
+                "reduce_boss_height",
+                "increase_base_width",
+                "consider_multi_setup",
+                "use_specialized_tooling"
+            ],
+            "threshold": 3.0
+        }
+    ]
+}

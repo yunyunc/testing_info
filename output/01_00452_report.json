@@ -1,0 +1,42 @@
+{
+    "face_highlight_map": {
+        "red": [],
+        "yellow": [
+            "7",
+            "25",
+            "15"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 0,
+        "total_violations": 1,
+        "yellow_count": 1
+    },
+    "timestamp": "2026-02-10T15:42:10",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "7",
+                "25",
+                "15"
+            ],
+            "location": {
+                "x": 139.00071426749366,
+                "y": -14.000714267493642,
+                "z": 5.0
+            },
+            "measured_value": 0.39999999999996405,
+            "message": "孔 [ThroughHole_R3_D5_2] 距离 Profile 仅 0.40mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        }
+    ]
+}

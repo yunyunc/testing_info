@@ -1,0 +1,824 @@
+{
+    "face_highlight_map": {
+        "red": [
+            "11",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "28",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "24",
+            "28"
+        ],
+        "yellow": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "24",
+            "28"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 20,
+        "total_violations": 36,
+        "yellow_count": 16
+    },
+    "timestamp": "2026-02-10T15:21:28",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "1"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "2"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "3"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "4"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "5"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "6"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "7"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "8"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "9"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "10"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "13"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "14",
+                "15"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "16",
+                "17"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "18"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "24"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "28"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.2,
+            "message": "孔径Ø3.20mm为非标准尺寸，最近的标准尺寸为Ø3.00mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.0mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "13"
+            ],
+            "location": {
+                "x": 1863.45,
+                "y": -181.11350121310667,
+                "z": 573.4310466859608
+            },
+            "measured_value": 0.20000000000051124,
+            "message": "孔 [ThroughHole_R1.6_D3_10] 距离 Hole [ThroughHole_R1.6_D3_15] 仅 0.20mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "14",
+                "15"
+            ],
+            "location": {
+                "x": 1874.1,
+                "y": -177.586705682372,
+                "z": 578.467832693366
+            },
+            "measured_value": 0.20000000000004547,
+            "message": "孔 [ThroughHole_R1.6_D3_11] 距离 Hole [ThroughHole_R1.6_D3_15] 仅 0.20mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "16",
+                "17"
+            ],
+            "location": {
+                "x": 1863.45,
+                "y": -174.059910151638,
+                "z": 583.5046187007712
+            },
+            "measured_value": 0.19999999999994308,
+            "message": "孔 [ThroughHole_R1.6_D3_12] 距离 Hole [ThroughHole_R1.6_D3_15] 仅 0.20mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "28"
+            ],
+            "location": {
+                "x": 1863.45,
+                "y": -174.059910151638,
+                "z": 583.5046187007712
+            },
+            "measured_value": 0.19999999999994308,
+            "message": "孔 [ThroughHole_R1.6_D3_15] 距离 Hole [ThroughHole_R1.6_D3_12] 仅 0.20mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "1"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_0 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "2"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_1 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "3"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_2 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "4"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_3 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "5"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_4 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "6"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_5 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "7"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_6 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "8"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_7 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "9"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_8 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "10"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_9 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "13"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_10 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "14",
+                "15"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_11 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "16",
+                "17"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_12 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "18"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_13 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "24"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_14 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "28"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 34.80401175271321,
+            "message": "孔 ThroughHole_R1.6_D3_15 的轴向偏离标准加工方向 34.8°，超过硬阈值 5.0°。轴向: (0.000, 0.821, -0.571)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        }
+    ]
+}

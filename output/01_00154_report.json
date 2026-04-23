@@ -1,0 +1,164 @@
+{
+    "face_highlight_map": {
+        "red": [
+            "14",
+            "46",
+            "1",
+            "2",
+            "44",
+            "12",
+            "45",
+            "13",
+            "47",
+            "48",
+            "49",
+            "50",
+            "35",
+            "3",
+            "32",
+            "33",
+            "34",
+            "54",
+            "51",
+            "52",
+            "53",
+            "39",
+            "36",
+            "37",
+            "38",
+            "43",
+            "40",
+            "41",
+            "42"
+        ],
+        "yellow": []
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 1,
+        "total_violations": 5,
+        "yellow_count": 4
+    },
+    "timestamp": "2026-02-10T15:26:30",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "14",
+                "46",
+                "1",
+                "2",
+                "44",
+                "12",
+                "45",
+                "13",
+                "47",
+                "48",
+                "49",
+                "50",
+                "35",
+                "3",
+                "32",
+                "33",
+                "34",
+                "54",
+                "51",
+                "52",
+                "53",
+                "39",
+                "36",
+                "37",
+                "38",
+                "43",
+                "40",
+                "41",
+                "42"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 132.87868,
+            "message": "型腔深度132.88mm，最小宽度1.00mm，深宽比132.88大于硬阈值6.00",
+            "rule_id": "MILL_DEEP_POCKET",
+            "rule_name": "深腔",
+            "severity": "red",
+            "suggestions": [
+                "reduce_depth",
+                "increase_opening_width",
+                "use_stepdown_machining",
+                "pre_drill_chip_escape_holes"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 2.0948383e-317
+            },
+            "measured_value": 3.1000000000000054,
+            "message": "Pocket \"OpenPocket_L1_W132.879_D132.879\" 的底部圆角半径 R3.1mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 2.0948383e-317
+            },
+            "measured_value": 3.1000000000000054,
+            "message": "Pocket \"OpenPocket_L1_W132.879_D132.879\" 的底部圆角半径 R3.1mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 2.0948383e-317
+            },
+            "measured_value": 3.1000000000000054,
+            "message": "Pocket \"OpenPocket_L1_W132.879_D132.879\" 的底部圆角半径 R3.1mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 2.0948383e-317
+            },
+            "measured_value": 3.1000000000000054,
+            "message": "Pocket \"OpenPocket_L1_W132.879_D132.879\" 的底部圆角半径 R3.1mm 不是标准球刀半径。建议调整为 R3mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R3mm，或确认使用定制刀具。"
+            ],
+            "threshold": 3.0
+        }
+    ]
+}

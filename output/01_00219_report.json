@@ -1,0 +1,117 @@
+{
+    "face_highlight_map": {
+        "red": [
+            "14",
+            "28",
+            "43",
+            "15",
+            "27",
+            "45",
+            "16",
+            "26",
+            "46",
+            "17",
+            "25",
+            "43"
+        ],
+        "yellow": []
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 4,
+        "total_violations": 4,
+        "yellow_count": 0
+    },
+    "timestamp": "2026-02-10T15:29:57",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "14",
+                "28",
+                "43"
+            ],
+            "location": {
+                "x": -14.249999999999991,
+                "y": 3.0,
+                "z": -25.349999999999987
+            },
+            "measured_value": 0.10000000000000497,
+            "message": "孔 [ThroughHole_R1.5_D3_13] 距离 Pocket [OpenPocket_L4_W46_D5] 仅 0.10mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "15",
+                "27",
+                "45"
+            ],
+            "location": {
+                "x": 14.249999999999996,
+                "y": 3.0,
+                "z": 25.349999999999994
+            },
+            "measured_value": 0.10000000000000142,
+            "message": "孔 [ThroughHole_R1.5_D3_14] 距离 Pocket [OpenPocket_L4_W46_D5] 仅 0.10mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "16",
+                "26",
+                "46"
+            ],
+            "location": {
+                "x": -14.249999999999991,
+                "y": 3.0,
+                "z": 25.349999999999987
+            },
+            "measured_value": 0.10000000000000497,
+            "message": "孔 [ThroughHole_R1.5_D3_15] 距离 Pocket [OpenPocket_L4_W46_D5] 仅 0.10mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        },
+        {
+            "affected_face_ids": [
+                "17",
+                "25",
+                "43"
+            ],
+            "location": {
+                "x": 14.249999999999996,
+                "y": 3.0,
+                "z": -25.349999999999994
+            },
+            "measured_value": 0.10000000000000142,
+            "message": "孔 [ThroughHole_R1.5_D3_16] 距离 Pocket [OpenPocket_L4_W46_D5] 仅 0.10mm，小于硬阈值 0.30mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "red",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.3
+        }
+    ]
+}

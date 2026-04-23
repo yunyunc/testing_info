@@ -1,0 +1,789 @@
+{
+    "version": "1",
+    "parts": [
+        {
+            "partId": "part-001",
+            "partName": "CNC_Part",
+            "geometricProperties": {
+                "volume": "12258.64",
+                "surfaceArea": "10580.45",
+                "AABB": {
+                    "dimensions": {
+                        "x": "100.00",
+                        "y": "94.00",
+                        "z": "3.00"
+                    },
+                    "minCorner": {
+                        "x": "-50.00",
+                        "y": "-47.00",
+                        "z": "-0.00"
+                    },
+                    "maxCorner": {
+                        "x": "50.00",
+                        "y": "47.00",
+                        "z": "3.00"
+                    }
+                }
+            },
+            "process": "CNC Machining Milling",
+            "featureRecognition": {
+                "name": "Feature Recognition",
+                "totalFeatureCount": "22",
+                "featureGroups": [
+                    {
+                        "name": "Flat Face Milled Face(s)",
+                        "color": "(115, 251, 253)",
+                        "totalGroupFeatureCount": "2",
+                        "featureCount": "2",
+                        "features": [
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "4"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "1",
+                                "shapeIDs": [
+                                    {
+                                        "id": "5"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Through Hole(s)",
+                        "color": "(240, 135, 132)",
+                        "totalGroupFeatureCount": "10",
+                        "subGroupCount": "1",
+                        "subGroups": [
+                            {
+                                "parametersCount": "3",
+                                "parameters": [
+                                    {
+                                        "name": "Radius",
+                                        "units": "mm",
+                                        "value": "1.250000"
+                                    },
+                                    {
+                                        "name": "Depth",
+                                        "units": "mm",
+                                        "value": "1.300000"
+                                    },
+                                    {
+                                        "name": "Axis",
+                                        "units": "",
+                                        "value": "(0.00, 0.00, 1.00)"
+                                    }
+                                ],
+                                "featureCount": "10",
+                        "features": [
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "1"
+                                    },
+                                    {
+                                        "id": "2"
+                                    },
+                                    {
+                                        "id": "3"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "46"
+                                    },
+                                    {
+                                        "id": "68"
+                                    },
+                                    {
+                                        "id": "120"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "47"
+                                    },
+                                    {
+                                        "id": "70"
+                                    },
+                                    {
+                                        "id": "121"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "48"
+                                    },
+                                    {
+                                        "id": "73"
+                                    },
+                                    {
+                                        "id": "122"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "57"
+                                    },
+                                    {
+                                        "id": "83"
+                                    },
+                                    {
+                                        "id": "131"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "3",
+                                "shapeIDs": [
+                                    {
+                                        "id": "58"
+                                    },
+                                    {
+                                        "id": "59"
+                                    },
+                                    {
+                                        "id": "132"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "2",
+                                "shapeIDs": [
+                                    {
+                                        "id": "69"
+                                    },
+                                    {
+                                        "id": "133"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "2",
+                                "shapeIDs": [
+                                    {
+                                        "id": "71"
+                                    },
+                                    {
+                                        "id": "134"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "2",
+                                "shapeIDs": [
+                                    {
+                                        "id": "72"
+                                    },
+                                    {
+                                        "id": "135"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "2",
+                                "shapeIDs": [
+                                    {
+                                        "id": "82"
+                                    },
+                                    {
+                                        "id": "136"
+                                    }
+                                ]
+                            }
+                        ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Open Pocket(s)",
+                        "color": "(120, 60, 30)",
+                        "totalGroupFeatureCount": "4",
+                        "subGroupCount": "1",
+                        "subGroups": [
+                            {
+                                "parametersCount": "4",
+                                "parameters": [
+                                    {
+                                        "name": "Length",
+                                        "units": "mm",
+                                        "value": "13.000000"
+                                    },
+                                    {
+                                        "name": "Width",
+                                        "units": "mm",
+                                        "value": "10.500000"
+                                    },
+                                    {
+                                        "name": "Depth",
+                                        "units": "mm",
+                                        "value": "0.800000"
+                                    },
+                                    {
+                                        "name": "Axis",
+                                        "units": "",
+                                        "value": "(0.00, 0.00, -1.00)"
+                                    }
+                                ],
+                                "featureCount": "4",
+                        "features": [
+                            {
+                                "shapeIDCount": "8",
+                                "shapeIDs": [
+                                    {
+                                        "id": "137"
+                                    },
+                                    {
+                                        "id": "100"
+                                    },
+                                    {
+                                        "id": "102"
+                                    },
+                                    {
+                                        "id": "104"
+                                    },
+                                    {
+                                        "id": "106"
+                                    },
+                                    {
+                                        "id": "107"
+                                    },
+                                    {
+                                        "id": "109"
+                                    },
+                                    {
+                                        "id": "111"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "8",
+                                "shapeIDs": [
+                                    {
+                                        "id": "138"
+                                    },
+                                    {
+                                        "id": "85"
+                                    },
+                                    {
+                                        "id": "93"
+                                    },
+                                    {
+                                        "id": "87"
+                                    },
+                                    {
+                                        "id": "95"
+                                    },
+                                    {
+                                        "id": "89"
+                                    },
+                                    {
+                                        "id": "97"
+                                    },
+                                    {
+                                        "id": "91"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "8",
+                                "shapeIDs": [
+                                    {
+                                        "id": "139"
+                                    },
+                                    {
+                                        "id": "99"
+                                    },
+                                    {
+                                        "id": "94"
+                                    },
+                                    {
+                                        "id": "96"
+                                    },
+                                    {
+                                        "id": "98"
+                                    },
+                                    {
+                                        "id": "101"
+                                    },
+                                    {
+                                        "id": "103"
+                                    },
+                                    {
+                                        "id": "105"
+                                    }
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "8",
+                                "shapeIDs": [
+                                    {
+                                        "id": "140"
+                                    },
+                                    {
+                                        "id": "108"
+                                    },
+                                    {
+                                        "id": "110"
+                                    },
+                                    {
+                                        "id": "112"
+                                    },
+                                    {
+                                        "id": "113"
+                                    },
+                                    {
+                                        "id": "115"
+                                    },
+                                    {
+                                        "id": "117"
+                                    },
+                                    {
+                                        "id": "119"
+                                    }
+                                ]
+                            }
+                        ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Through Pocket(s)",
+                        "color": "(160, 100, 60)",
+                        "totalGroupFeatureCount": "1",
+                        "subGroupCount": "1",
+                        "subGroups": [
+                            {
+                                "parametersCount": "3",
+                                "parameters": [
+                                    {
+                                        "name": "Length",
+                                        "units": "mm",
+                                        "value": "68.500000"
+                                    },
+                                    {
+                                        "name": "Width",
+                                        "units": "mm",
+                                        "value": "74.000000"
+                                    },
+                                    {
+                                        "name": "Axis",
+                                        "units": "",
+                                        "value": "(0.00, 0.00, -1.00)"
+                                    }
+                                ],
+                                "featureCount": "1",
+                        "features": [
+                            {
+                                "shapeIDCount": "8",
+                                "shapeIDs": [
+                                    {
+                                        "id": "123"
+                                    },
+                                    {
+                                        "id": "124"
+                                    },
+                                    {
+                                        "id": "125"
+                                    },
+                                    {
+                                        "id": "126"
+                                    },
+                                    {
+                                        "id": "127"
+                                    },
+                                    {
+                                        "id": "128"
+                                    },
+                                    {
+                                        "id": "129"
+                                    },
+                                    {
+                                        "id": "130"
+                                    }
+                                ]
+                            }
+                        ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Profile Feature(s)",
+                        "color": "(0, 200, 100)",
+                        "totalGroupFeatureCount": "1",
+                        "featureCount": "1",
+                        "features": [
+                            {
+                                "shapeIDCount": "8",
+                                "shapeIDs": [
+                                    {
+                                        "id": "84"
+                                    },
+                                    {
+                                        "id": "86"
+                                    },
+                                    {
+                                        "id": "88"
+                                    },
+                                    {
+                                        "id": "90"
+                                    },
+                                    {
+                                        "id": "92"
+                                    },
+                                    {
+                                        "id": "118"
+                                    },
+                                    {
+                                        "id": "116"
+                                    },
+                                    {
+                                        "id": "114"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chamfer(s)",
+                        "color": "(128, 0, 128)",
+                        "totalGroupFeatureCount": "4",
+                        "subGroupCount": "1",
+                        "subGroups": [
+                            {
+                                "parametersCount": "4",
+                                "parameters": [
+                                    {
+                                        "name": "Width",
+                                        "units": "mm",
+                                        "value": "0.249702"
+                                    },
+                                    {
+                                        "name": "Angle",
+                                        "units": "deg",
+                                        "value": "45.000000"
+                                    },
+                                    {
+                                        "name": "ChamferType",
+                                        "units": "",
+                                        "value": "Hybrid"
+                                    },
+                                    {
+                                        "name": "Confidence",
+                                        "units": "",
+                                        "value": "0.500000"
+                                    }
+                                ],
+                                "featureCount": "4",
+                        "features": [
+                            {
+                                "shapeIDCount": "40",
+                                "shapeIDs": [
+                                    {
+                                        "id": "6"
+                                    },
+                                    {
+                                        "id": "7"
+                                    },
+                                    {
+                                        "id": "9"
+                                    },
+                                    {
+                                        "id": "11"
+                                    },
+                                    {
+                                        "id": "13"
+                                    },
+                                    {
+                                        "id": "15"
+                                    },
+                                    {
+                                        "id": "17"
+                                    },
+                                    {
+                                        "id": "19"
+                                    },
+                                    {
+                                        "id": "21"
+                                    },
+                                    {
+                                        "id": "23"
+                                    },
+                                    {
+                                        "id": "25"
+                                    },
+                                    {
+                                        "id": "27"
+                                    },
+                                    {
+                                        "id": "29"
+                                    },
+                                    {
+                                        "id": "31"
+                                    },
+                                    {
+                                        "id": "33"
+                                    },
+                                    {
+                                        "id": "35"
+                                    },
+                                    {
+                                        "id": "37"
+                                    },
+                                    {
+                                        "id": "39"
+                                    },
+                                    {
+                                        "id": "41"
+                                    },
+                                    {
+                                        "id": "43"
+                                    },
+                                    {
+                                        "id": "45"
+                                    },
+                                    {
+                                        "id": "44"
+                                    },
+                                    {
+                                        "id": "42"
+                                    },
+                                    {
+                                        "id": "40"
+                                    },
+                                    {
+                                        "id": "38"
+                                    },
+                                    {
+                                        "id": "36"
+                                    },
+                                    {
+                                        "id": "34"
+                                    },
+                                    {
+                                        "id": "32"
+                                    },
+                                    {
+                                        "id": "30"
+                                    },
+                                    {
+                                        "id": "28"
+                                    },
+                                    {
+                                        "id": "26"
+                                    },
+                                    {
+                                        "id": "24"
+                                    },
+                                    {
+                                        "id": "22"
+                                    },
+                                    {
+                                        "id": "20"
+                                    },
+                                    {
+                                        "id": "18"
+                                    },
+                                    {
+                                        "id": "16"
+                                    },
+                                    {
+                                        "id": "14"
+                                    },
+                                    {
+                                        "id": "12"
+                                    },
+                                    {
+                                        "id": "10"
+                                    },
+                                    {
+                                        "id": "8"
+                                    }
+                                ],
+                                "supportInfos": [
+                                    {"faceId": "6", "supportFaceId1": "4", "supportFaceId2": "84"},
+                                    {"faceId": "7", "supportFaceId1": "4", "supportFaceId2": "85"},
+                                    {"faceId": "9", "supportFaceId1": "4", "supportFaceId2": "87"},
+                                    {"faceId": "11", "supportFaceId1": "4", "supportFaceId2": "89"},
+                                    {"faceId": "13", "supportFaceId1": "4", "supportFaceId2": "91"},
+                                    {"faceId": "15", "supportFaceId1": "4", "supportFaceId2": "93"},
+                                    {"faceId": "17", "supportFaceId1": "4", "supportFaceId2": "95"},
+                                    {"faceId": "19", "supportFaceId1": "4", "supportFaceId2": "97"},
+                                    {"faceId": "21", "supportFaceId1": "4", "supportFaceId2": "84"},
+                                    {"faceId": "23", "supportFaceId1": "4", "supportFaceId2": "100"},
+                                    {"faceId": "25", "supportFaceId1": "4", "supportFaceId2": "102"},
+                                    {"faceId": "27", "supportFaceId1": "4", "supportFaceId2": "104"},
+                                    {"faceId": "29", "supportFaceId1": "4", "supportFaceId2": "106"},
+                                    {"faceId": "31", "supportFaceId1": "4", "supportFaceId2": "107"},
+                                    {"faceId": "33", "supportFaceId1": "4", "supportFaceId2": "109"},
+                                    {"faceId": "35", "supportFaceId1": "4", "supportFaceId2": "111"},
+                                    {"faceId": "37", "supportFaceId1": "4", "supportFaceId2": "84"},
+                                    {"faceId": "39", "supportFaceId1": "4", "supportFaceId2": "114"},
+                                    {"faceId": "41", "supportFaceId1": "4", "supportFaceId2": "116"},
+                                    {"faceId": "43", "supportFaceId1": "4", "supportFaceId2": "118"},
+                                    {"faceId": "45", "supportFaceId1": "4", "supportFaceId2": "92"},
+                                    {"faceId": "44", "supportFaceId1": "4", "supportFaceId2": "119"},
+                                    {"faceId": "42", "supportFaceId1": "4", "supportFaceId2": "117"},
+                                    {"faceId": "40", "supportFaceId1": "4", "supportFaceId2": "115"},
+                                    {"faceId": "38", "supportFaceId1": "4", "supportFaceId2": "113"},
+                                    {"faceId": "36", "supportFaceId1": "4", "supportFaceId2": "112"},
+                                    {"faceId": "34", "supportFaceId1": "4", "supportFaceId2": "110"},
+                                    {"faceId": "32", "supportFaceId1": "4", "supportFaceId2": "108"},
+                                    {"faceId": "30", "supportFaceId1": "4", "supportFaceId2": "92"},
+                                    {"faceId": "28", "supportFaceId1": "4", "supportFaceId2": "105"},
+                                    {"faceId": "26", "supportFaceId1": "4", "supportFaceId2": "103"},
+                                    {"faceId": "24", "supportFaceId1": "4", "supportFaceId2": "101"},
+                                    {"faceId": "22", "supportFaceId1": "4", "supportFaceId2": "99"},
+                                    {"faceId": "20", "supportFaceId1": "4", "supportFaceId2": "98"},
+                                    {"faceId": "18", "supportFaceId1": "4", "supportFaceId2": "96"},
+                                    {"faceId": "16", "supportFaceId1": "4", "supportFaceId2": "94"},
+                                    {"faceId": "14", "supportFaceId1": "4", "supportFaceId2": "92"},
+                                    {"faceId": "12", "supportFaceId1": "4", "supportFaceId2": "90"},
+                                    {"faceId": "10", "supportFaceId1": "4", "supportFaceId2": "88"},
+                                    {"faceId": "8", "supportFaceId1": "4", "supportFaceId2": "86"}
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "8",
+                                "shapeIDs": [
+                                    {
+                                        "id": "49"
+                                    },
+                                    {
+                                        "id": "50"
+                                    },
+                                    {
+                                        "id": "52"
+                                    },
+                                    {
+                                        "id": "54"
+                                    },
+                                    {
+                                        "id": "56"
+                                    },
+                                    {
+                                        "id": "55"
+                                    },
+                                    {
+                                        "id": "53"
+                                    },
+                                    {
+                                        "id": "51"
+                                    }
+                                ],
+                                "supportInfos": [
+                                    {"faceId": "49", "supportFaceId1": "4", "supportFaceId2": "123"},
+                                    {"faceId": "50", "supportFaceId1": "4", "supportFaceId2": "124"},
+                                    {"faceId": "52", "supportFaceId1": "4", "supportFaceId2": "126"},
+                                    {"faceId": "54", "supportFaceId1": "4", "supportFaceId2": "128"},
+                                    {"faceId": "56", "supportFaceId1": "4", "supportFaceId2": "130"},
+                                    {"faceId": "55", "supportFaceId1": "4", "supportFaceId2": "129"},
+                                    {"faceId": "53", "supportFaceId1": "4", "supportFaceId2": "127"},
+                                    {"faceId": "51", "supportFaceId1": "4", "supportFaceId2": "125"}
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "8",
+                                "shapeIDs": [
+                                    {
+                                        "id": "60"
+                                    },
+                                    {
+                                        "id": "61"
+                                    },
+                                    {
+                                        "id": "63"
+                                    },
+                                    {
+                                        "id": "65"
+                                    },
+                                    {
+                                        "id": "67"
+                                    },
+                                    {
+                                        "id": "66"
+                                    },
+                                    {
+                                        "id": "64"
+                                    },
+                                    {
+                                        "id": "62"
+                                    }
+                                ],
+                                "supportInfos": [
+                                    {"faceId": "60", "supportFaceId1": "92", "supportFaceId2": "5"},
+                                    {"faceId": "61", "supportFaceId1": "5", "supportFaceId2": "90"},
+                                    {"faceId": "63", "supportFaceId1": "88", "supportFaceId2": "5"},
+                                    {"faceId": "65", "supportFaceId1": "5", "supportFaceId2": "86"},
+                                    {"faceId": "67", "supportFaceId1": "84", "supportFaceId2": "5"},
+                                    {"faceId": "66", "supportFaceId1": "5", "supportFaceId2": "114"},
+                                    {"faceId": "64", "supportFaceId1": "116", "supportFaceId2": "5"},
+                                    {"faceId": "62", "supportFaceId1": "5", "supportFaceId2": "118"}
+                                ]
+                            },
+                            {
+                                "shapeIDCount": "8",
+                                "shapeIDs": [
+                                    {
+                                        "id": "74"
+                                    },
+                                    {
+                                        "id": "75"
+                                    },
+                                    {
+                                        "id": "77"
+                                    },
+                                    {
+                                        "id": "79"
+                                    },
+                                    {
+                                        "id": "81"
+                                    },
+                                    {
+                                        "id": "80"
+                                    },
+                                    {
+                                        "id": "78"
+                                    },
+                                    {
+                                        "id": "76"
+                                    }
+                                ],
+                                "supportInfos": [
+                                    {"faceId": "74", "supportFaceId1": "123", "supportFaceId2": "5"},
+                                    {"faceId": "75", "supportFaceId1": "5", "supportFaceId2": "124"},
+                                    {"faceId": "77", "supportFaceId1": "126", "supportFaceId2": "5"},
+                                    {"faceId": "79", "supportFaceId1": "5", "supportFaceId2": "128"},
+                                    {"faceId": "81", "supportFaceId1": "130", "supportFaceId2": "5"},
+                                    {"faceId": "80", "supportFaceId1": "5", "supportFaceId2": "129"},
+                                    {"faceId": "78", "supportFaceId1": "127", "supportFaceId2": "5"},
+                                    {"faceId": "76", "supportFaceId1": "5", "supportFaceId2": "125"}
+                                ]
+                            }
+                        ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

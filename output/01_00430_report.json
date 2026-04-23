@@ -1,0 +1,1512 @@
+{
+    "face_highlight_map": {
+        "red": [
+            "67",
+            "59",
+            "32",
+            "33",
+            "60",
+            "61",
+            "62",
+            "63",
+            "64",
+            "65",
+            "66",
+            "132",
+            "133",
+            "134",
+            "135",
+            "136",
+            "137",
+            "138",
+            "139",
+            "88",
+            "152",
+            "46",
+            "30",
+            "31",
+            "74",
+            "75",
+            "76",
+            "77",
+            "141",
+            "78",
+            "142",
+            "79",
+            "143",
+            "80",
+            "144",
+            "81",
+            "145",
+            "82",
+            "146",
+            "83",
+            "147",
+            "84",
+            "148",
+            "85",
+            "149",
+            "86",
+            "150",
+            "87",
+            "151",
+            "161",
+            "162",
+            "171",
+            "172",
+            "53",
+            "125",
+            "54",
+            "55",
+            "56",
+            "57",
+            "58",
+            "131",
+            "155",
+            "156",
+            "157",
+            "167",
+            "68",
+            "140",
+            "69",
+            "70",
+            "71",
+            "72",
+            "73",
+            "130",
+            "158",
+            "159",
+            "160",
+            "168",
+            "95",
+            "100",
+            "28",
+            "29",
+            "96",
+            "97",
+            "98",
+            "99",
+            "123",
+            "124",
+            "169",
+            "170",
+            "89",
+            "153",
+            "90",
+            "154",
+            "91",
+            "92",
+            "93",
+            "126",
+            "94",
+            "127",
+            "128",
+            "129"
+        ],
+        "yellow": [
+            "1",
+            "187",
+            "8",
+            "120",
+            "9",
+            "119",
+            "10",
+            "118",
+            "11",
+            "117",
+            "12",
+            "116",
+            "13",
+            "115",
+            "14",
+            "114",
+            "15",
+            "113",
+            "16",
+            "112",
+            "17",
+            "111",
+            "18",
+            "110",
+            "19",
+            "109",
+            "20",
+            "108",
+            "21",
+            "107",
+            "22",
+            "106",
+            "23",
+            "105",
+            "24",
+            "104",
+            "25",
+            "103",
+            "26",
+            "102",
+            "27",
+            "101",
+            "1",
+            "187",
+            "8",
+            "120",
+            "9",
+            "119",
+            "10",
+            "118",
+            "11",
+            "117",
+            "12",
+            "116",
+            "13",
+            "115",
+            "14",
+            "114",
+            "15",
+            "113",
+            "16",
+            "112",
+            "17",
+            "111",
+            "18",
+            "110",
+            "19",
+            "109",
+            "20",
+            "108",
+            "21",
+            "107",
+            "22",
+            "106",
+            "23",
+            "105",
+            "24",
+            "104",
+            "25",
+            "103",
+            "26",
+            "102",
+            "27",
+            "101"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 2,
+        "total_violations": 57,
+        "yellow_count": 55
+    },
+    "timestamp": "2026-02-10T15:41:47",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "1",
+                "187"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "8",
+                "120"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "9",
+                "119"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "10",
+                "118"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "117"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "12",
+                "116"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "13",
+                "115"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "14",
+                "114"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "15",
+                "113"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "16",
+                "112"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "17",
+                "111"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "18",
+                "110"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "19",
+                "109"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "20",
+                "108"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "21",
+                "107"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "22",
+                "106"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "23",
+                "105"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "24",
+                "104"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "25",
+                "103"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "26",
+                "102"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "27",
+                "101"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 6.0606060606060606,
+            "message": "孔深度20.00mm，直径3.30mm，L/D比6.06大于推荐阈值6.00",
+            "rule_id": "DRILL_DEEP_HOLE",
+            "rule_name": "深孔",
+            "severity": "yellow",
+            "suggestions": [
+                "consider_step_drilling",
+                "use_high_quality_drill",
+                "add_pilot_hole",
+                "optimize_chip_evacuation"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "1",
+                "187"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "8",
+                "120"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "9",
+                "119"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "10",
+                "118"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "11",
+                "117"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "12",
+                "116"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "13",
+                "115"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "14",
+                "114"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "15",
+                "113"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "16",
+                "112"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "17",
+                "111"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "18",
+                "110"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "19",
+                "109"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "20",
+                "108"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "21",
+                "107"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "22",
+                "106"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "23",
+                "105"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "24",
+                "104"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "25",
+                "103"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "26",
+                "102"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "27",
+                "101"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 3.3,
+            "message": "孔径Ø3.30mm为非标准尺寸，最近的标准尺寸为Ø3.50mm（差值0.20mm），需要定制刀具或钻扩铰组合工艺，成本增加2-5倍",
+            "rule_id": "DRILL_NON_STANDARD_DIAMETER",
+            "rule_name": "非标准孔径",
+            "severity": "yellow",
+            "suggestions": [
+                "修改为标准尺寸Ø3.5mm",
+                "use_drill_reamer_combination",
+                "use_milling_if_tolerance_loose"
+            ],
+            "threshold": 3.5
+        },
+        {
+            "affected_face_ids": [
+                "67",
+                "59",
+                "32",
+                "33",
+                "60",
+                "61",
+                "62",
+                "63",
+                "64",
+                "65",
+                "66",
+                "132",
+                "133",
+                "134",
+                "135",
+                "136",
+                "137",
+                "138",
+                "139"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 10.59,
+            "message": "型腔深度21.18mm，最小宽度2.00mm，深宽比10.59大于硬阈值6.00",
+            "rule_id": "MILL_DEEP_POCKET",
+            "rule_name": "深腔",
+            "severity": "red",
+            "suggestions": [
+                "reduce_depth",
+                "increase_opening_width",
+                "use_stepdown_machining",
+                "pre_drill_chip_escape_holes"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [
+                "88",
+                "152",
+                "46",
+                "30",
+                "31",
+                "74",
+                "75",
+                "76",
+                "77",
+                "141",
+                "78",
+                "142",
+                "79",
+                "143",
+                "80",
+                "144",
+                "81",
+                "145",
+                "82",
+                "146",
+                "83",
+                "147",
+                "84",
+                "148",
+                "85",
+                "149",
+                "86",
+                "150",
+                "87",
+                "151",
+                "161",
+                "162",
+                "171",
+                "172",
+                "53",
+                "125",
+                "54",
+                "55",
+                "56",
+                "57",
+                "58",
+                "131",
+                "155",
+                "156",
+                "157",
+                "167",
+                "68",
+                "140",
+                "69",
+                "70",
+                "71",
+                "72",
+                "73",
+                "130",
+                "158",
+                "159",
+                "160",
+                "168",
+                "95",
+                "100",
+                "28",
+                "29",
+                "96",
+                "97",
+                "98",
+                "99",
+                "123",
+                "124",
+                "169",
+                "170",
+                "89",
+                "153",
+                "90",
+                "154",
+                "91",
+                "92",
+                "93",
+                "126",
+                "94",
+                "127",
+                "128",
+                "129"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 30.6,
+            "message": "型腔深度61.20mm，最小宽度2.00mm，深宽比30.60大于硬阈值6.00",
+            "rule_id": "MILL_DEEP_POCKET",
+            "rule_name": "深腔",
+            "severity": "red",
+            "suggestions": [
+                "reduce_depth",
+                "increase_opening_width",
+                "use_stepdown_machining",
+                "pre_drill_chip_escape_holes"
+            ],
+            "threshold": 6.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 1.600000000000004,
+            "message": "Pocket \"ClosedPocket_L2_W43.2_D21.18\" 的底部圆角半径 R1.6mm 不是标准球刀半径。建议调整为 R1.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R1.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 1.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 1.600000000000004,
+            "message": "Pocket \"ClosedPocket_L2_W43.2_D21.18\" 的底部圆角半径 R1.6mm 不是标准球刀半径。建议调整为 R1.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R1.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 1.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 1.600000000000004,
+            "message": "Pocket \"ClosedPocket_L2_W43.2_D21.18\" 的底部圆角半径 R1.6mm 不是标准球刀半径。建议调整为 R1.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R1.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 1.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 1.600000000000004,
+            "message": "Pocket \"OpenPocket_L2_W189.2_D61.2\" 的底部圆角半径 R1.6mm 不是标准球刀半径。建议调整为 R1.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R1.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 1.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 1.600000000000004,
+            "message": "Pocket \"OpenPocket_L2_W189.2_D61.2\" 的底部圆角半径 R1.6mm 不是标准球刀半径。建议调整为 R1.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R1.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 1.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 1.600000000000004,
+            "message": "Pocket \"OpenPocket_L2_W189.2_D61.2\" 的底部圆角半径 R1.6mm 不是标准球刀半径。建议调整为 R1.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R1.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 1.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 1.600000000000004,
+            "message": "Pocket \"OpenPocket_L2_W189.2_D61.2\" 的底部圆角半径 R1.6mm 不是标准球刀半径。建议调整为 R1.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R1.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 1.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 1.600000000000004,
+            "message": "Pocket \"OpenPocket_L2_W189.2_D61.2\" 的底部圆角半径 R1.6mm 不是标准球刀半径。建议调整为 R1.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R1.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 1.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 1.600000000000018,
+            "message": "Pocket \"OpenPocket_L2_W189.2_D61.2\" 的底部圆角半径 R1.6mm 不是标准球刀半径。建议调整为 R1.5mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R1.5mm，或确认使用定制刀具。"
+            ],
+            "threshold": 1.5
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 2.2000000000000073,
+            "message": "Pocket \"OpenPocket_L2_W189.2_D61.2\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 2.1999999999999935,
+            "message": "Pocket \"OpenPocket_L2_W189.2_D61.2\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 2.1999999999999935,
+            "message": "Pocket \"OpenPocket_L2_W189.2_D61.2\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        },
+        {
+            "affected_face_ids": [],
+            "location": {
+                "x": 3.95e-322,
+                "y": 0.0,
+                "z": 3.0008836e-317
+            },
+            "measured_value": 2.2000000000000073,
+            "message": "Pocket \"OpenPocket_L2_W189.2_D61.2\" 的底部圆角半径 R2.2mm 不是标准球刀半径。建议调整为 R2mm 以匹配标准刀具。",
+            "rule_id": "MILL_NON_STANDARD_FLOOR_FILLET",
+            "rule_name": "非标准底角圆角",
+            "severity": "yellow",
+            "suggestions": [
+                "将圆角半径调整为标准值 R2mm，或确认使用定制刀具。"
+            ],
+            "threshold": 2.0
+        }
+    ]
+}

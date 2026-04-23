@@ -1,0 +1,407 @@
+{
+    "face_highlight_map": {
+        "red": [],
+        "yellow": [
+            "4",
+            "5",
+            "7",
+            "8",
+            "10",
+            "11",
+            "13",
+            "14",
+            "16",
+            "19",
+            "21",
+            "22",
+            "6",
+            "23",
+            "9",
+            "24",
+            "12",
+            "25",
+            "15",
+            "26",
+            "18",
+            "28",
+            "20",
+            "29"
+        ]
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 0,
+        "total_violations": 18,
+        "yellow_count": 18
+    },
+    "timestamp": "2026-02-10T15:42:24",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "4"
+            ],
+            "location": {
+                "x": -69.57917854049089,
+                "y": -113.01709802344507,
+                "z": 3.0
+            },
+            "measured_value": 0.49948930407626807,
+            "message": "孔 [ThroughHole_R2_D3_0] 距离 Hole [ThroughHole_R2_D3_12] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "5"
+            ],
+            "location": {
+                "x": -63.086088680093965,
+                "y": -116.76588520219443,
+                "z": 3.0
+            },
+            "measured_value": 0.49948930413020826,
+            "message": "孔 [ThroughHole_R2_D3_1] 距离 Hole [ThroughHole_R2_D3_12] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "7"
+            ],
+            "location": {
+                "x": -132.66526722054155,
+                "y": -3.7487871787709324,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893041145681,
+            "message": "孔 [ThroughHole_R2_D3_2] 距离 Hole [ThroughHole_R2_D3_14] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "8"
+            ],
+            "location": {
+                "x": 63.086088680098726,
+                "y": -116.76588520219491,
+                "z": 3.0
+            },
+            "measured_value": 0.49948930412231624,
+            "message": "孔 [ThroughHole_R2_D3_3] 距离 Hole [ThroughHole_R2_D3_13] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "10"
+            ],
+            "location": {
+                "x": 69.57917854049569,
+                "y": -113.01709802344558,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893040839575,
+            "message": "孔 [ThroughHole_R2_D3_4] 距离 Hole [ThroughHole_R2_D3_13] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "11"
+            ],
+            "location": {
+                "x": 132.6652672205853,
+                "y": -3.7487871787711384,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893041129698,
+            "message": "孔 [ThroughHole_R2_D3_5] 距离 Hole [ThroughHole_R2_D3_17] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "13"
+            ],
+            "location": {
+                "x": -132.66526722054155,
+                "y": 3.7487871787709484,
+                "z": 3.0
+            },
+            "measured_value": 0.49948930411453524,
+            "message": "孔 [ThroughHole_R2_D3_6] 距离 Hole [ThroughHole_R2_D3_14] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "14"
+            ],
+            "location": {
+                "x": -69.57917854048756,
+                "y": 113.01709802348958,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893041074398,
+            "message": "孔 [ThroughHole_R2_D3_7] 距离 Hole [ThroughHole_R2_D3_15] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "16"
+            ],
+            "location": {
+                "x": -63.086088680092914,
+                "y": 116.76588520226251,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893041206143,
+            "message": "孔 [ThroughHole_R2_D3_8] 距离 Hole [ThroughHole_R2_D3_15] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "19"
+            ],
+            "location": {
+                "x": 132.6652672205853,
+                "y": 3.7487871787711384,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893041129698,
+            "message": "孔 [ThroughHole_R2_D3_9] 距离 Hole [ThroughHole_R2_D3_17] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "21"
+            ],
+            "location": {
+                "x": 63.086088680097674,
+                "y": 116.76588520226298,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893041127161,
+            "message": "孔 [ThroughHole_R2_D3_10] 距离 Hole [ThroughHole_R2_D3_18] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "22"
+            ],
+            "location": {
+                "x": 69.57917854049236,
+                "y": 113.01709802349009,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893041151245,
+            "message": "孔 [ThroughHole_R2_D3_11] 距离 Hole [ThroughHole_R2_D3_18] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "6",
+                "23"
+            ],
+            "location": {
+                "x": -69.57917854049089,
+                "y": -113.01709802344507,
+                "z": 3.0
+            },
+            "measured_value": 0.49948930407626807,
+            "message": "孔 [ThroughHole_R2_D3_12] 距离 Hole [ThroughHole_R2_D3_0] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "9",
+                "24"
+            ],
+            "location": {
+                "x": 69.57917854049569,
+                "y": -113.01709802344558,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893040839575,
+            "message": "孔 [ThroughHole_R2_D3_13] 距离 Hole [ThroughHole_R2_D3_4] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "12",
+                "25"
+            ],
+            "location": {
+                "x": -132.66526722054155,
+                "y": 3.7487871787709484,
+                "z": 3.0
+            },
+            "measured_value": 0.49948930411453524,
+            "message": "孔 [ThroughHole_R2_D3_14] 距离 Hole [ThroughHole_R2_D3_6] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "15",
+                "26"
+            ],
+            "location": {
+                "x": -69.57917854048756,
+                "y": 113.01709802348958,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893041074398,
+            "message": "孔 [ThroughHole_R2_D3_15] 距离 Hole [ThroughHole_R2_D3_7] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "18",
+                "28"
+            ],
+            "location": {
+                "x": 132.6652672205853,
+                "y": -3.7487871787711384,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893041129698,
+            "message": "孔 [ThroughHole_R2_D3_17] 距离 Hole [ThroughHole_R2_D3_5] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        },
+        {
+            "affected_face_ids": [
+                "20",
+                "29"
+            ],
+            "location": {
+                "x": 63.086088680097674,
+                "y": 116.76588520226298,
+                "z": 3.0
+            },
+            "measured_value": 0.4994893041127161,
+            "message": "孔 [ThroughHole_R2_D3_18] 距离 Hole [ThroughHole_R2_D3_10] 仅 0.50mm，小于推荐阈值 0.50mm",
+            "rule_id": "DRILL_PARTIAL_HOLE",
+            "rule_name": "贴边孔",
+            "severity": "yellow",
+            "suggestions": [
+                "increase_edge_distance",
+                "move_hole_inward"
+            ],
+            "threshold": 0.5
+        }
+    ]
+}

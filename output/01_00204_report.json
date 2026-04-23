@@ -1,0 +1,497 @@
+{
+    "face_highlight_map": {
+        "red": [
+            "1",
+            "125",
+            "3",
+            "4",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+        ],
+        "yellow": []
+    },
+    "file": "",
+    "report_version": "2.0",
+    "summary": {
+        "red_count": 20,
+        "total_violations": 20,
+        "yellow_count": 0
+    },
+    "timestamp": "2026-02-10T15:29:41",
+    "violations": [
+        {
+            "affected_face_ids": [
+                "1",
+                "125"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_0 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "3",
+                "4"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_1 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "6",
+                "7"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_2 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "8",
+                "9"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_3 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "10",
+                "11"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_4 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "12",
+                "13"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_5 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "14",
+                "15"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_6 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "16",
+                "17"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_7 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "18",
+                "19"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_8 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "20",
+                "21"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_9 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "22",
+                "23"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_10 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "24",
+                "25"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_11 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "26",
+                "27"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_12 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "28",
+                "29"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_13 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "30",
+                "31"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_14 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "32",
+                "33"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_15 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "34",
+                "35"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_16 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "36",
+                "37"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_17 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "38",
+                "39"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_18 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        },
+        {
+            "affected_face_ids": [
+                "40",
+                "41"
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "measured_value": 15.004920382860224,
+            "message": "孔 ThroughHole_R3.25_D9_19 的轴向偏离标准加工方向 15.0°，超过硬阈值 5.0°。轴向: (-0.966, 0.259, 0.000)。建议：调整孔方向为垂直，或使用5轴/3+2定位加工",
+            "rule_id": "DRILL_NON_PERPENDICULAR",
+            "rule_name": "非垂直孔（斜孔）",
+            "severity": "red",
+            "suggestions": [
+                "make_perpendicular",
+                "add_chamfer_lead_in",
+                "use_5axis_or_3plus2"
+            ],
+            "threshold": 5.0
+        }
+    ]
+}
